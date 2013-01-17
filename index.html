@@ -1,14 +1,61 @@
 ---
 layout: default
-title: Jekyll Boilerplate
+title: Ryo Chiba
 ---
 
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="//netdna.bootstrapcdn.com/bootswatch/2.1.1/readable/bootstrap.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css" rel="stylesheet">
+	<link href="/assets/css/common.css" rel="stylesheet">
+	<script type="text/javascript" src="//use.typekit.net/aso2rbe.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
+	<style>
+		body{
+			font-family:Georgia, Times, serif;
+		}
+		h1,h2,h3{
+			color: #444444;
+			font-family: "acta-display", Georgia, Times, serif;
+			font-weight: 400;
+			letter-spacing: -1px;
+		}
+		h4{
+			color: #999;
+			font-size: 1em;
+			font-style: italic;
+			font-weight: 300;
+			margin-top:-10px;
+		}
+		.top-item{
+			height:200px;
+			background-color:#FFF;
+			background-color:rgba(255,255,255,0.8);
+		}
+	</style>
+	<canvas class="common-canvas" id="common-canvas" width="1244" height="993"></canvas>
+	<div class="container">
+		<div class="row">
+			<h1>{{ page.title }}</h1>
+		</div>
 
-<h1>{{ page.title }}</h1>
+		{% for post in site.posts %}
+			<div class="row">
+			    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			    <h4>{{ post.date | date: "%B %e, %Y" }}</h4>
+			    <p>
+			    	{{ post.content }}
+			    </p>
+			</div>
 
-{% for post in site.posts %}
-
-    {{ post.date | date: "%B %e, %Y" }}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-
-{% endfor %}
+		{% endfor %}
+	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+	<script src="/assets/js/stackblur.js"></script>
+	<script src="/assets/js/index.js"></script>
+</body>
+</html>
