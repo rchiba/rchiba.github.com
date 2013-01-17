@@ -1,0 +1,21 @@
+---
+layout: post
+title: Startups Fears
+tags:
+- Writing
+status: private
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+
+http://i.imgur.com/QbOh1.jpg
+
+Frankly, I'm quite afraid of working in a startup. There are so many risks that are easy overlook as an outsider. From the outside, it may seem like the startup life is exciting, and in some ways, carefree. From the outside, revenues are always growing, team members in good rapport, deals are being closed, term sheets are being signed. Engineers are thrilled to build new features to please their insane(ly happy) customers. (There's a wall at work stencilled with, "Obsessed with our insanely happy customers"). Everyone's walking briskly between their glass wall'ed offices, and the murmur of phones ringing, tweets tweeting, and the construction upstairs crescendos into a jarring, then blaring white noise. Until you go absolutely crazy, about to go postal, and throw the laptop through the window, and start thinking that this is all just a big mistake. What is this? This is not real.
+
+And the illusion ends for me within fourteen days. And the illusion is that being in a startup is all about the things you see on TV. And the insecurities creep in. The slow realization maybe you got screwed over by the CEO because you were the fifth guy and not the fourth. Or trying to justify to yourself why you have less equity than the designer, and how she also happens to be dating the CEO. And the fact that the one guy who doesn't even work at the company anymore has more equity than you because he just happened to be a pushy asshole. And maybe admitting to yourself that you are totally undervaluing yourself and you're a piece of shit because all of your friends work at Facebook now and drive Beemers and go paintballing with their baller co-workers on the weekend. Nothing in my life has been as soul crushing as these post-college days in which everything I have done, and will do, is being put into question. Because you get into a habit of questioning while you're in a startup. Because startups are all about questioning.
+
+The question is, "Are you a business?". Which is derived from, "Are you adding value". Which is essentially asking, "Are you worth anything". Am I worth anything? Is what I have done and will do worth anything? In startupland, it's all a total guess. The predicted market size numbers are horseshit. And to top it all off, everyone almost expects you to be an overnight success and shames you into thinking that you're a failure because your company isn't taking off like Zuck's. Well, fuck you all. Why can't we all have pleasant conversations about the nice things about life and not talk about that friend-of-a-friend who got bought out by Google and now spends his days making Google doodles for seven figures. Please, just kill me now.
+
+Startups are also all about survival. Can I survive another day with a bunch of delusional people like me.
