@@ -41,6 +41,12 @@ Lastly, cd to the directory your jekyll blog is at and use the following command
 
 This command uploads your the **_site** folder to your **bucketname.com** bucket, deleting files on s3 that don't exist anymore locally, only uploading files that have changed since last upload, and making all the files on s3 public. 
 
-For your convenience, you can put this message in a post-commit hook so that your s3 bucket syncs up every time you commit. To do this, within your blog repository add a command to a new file at .git/hooks/post-commit               
+For your convenience, you can put these commands as a batch file you can run when you want to update your site. Simply create a file in your blog folder called update_blog.bat and add the following text to it:
+
+    cd C:\*Put\the\path\to\your\blog\here*
+    jekyll --no-auto --no-server
+    git commit -am "updating blog"
+    git push origin master
+    s3 put *www.yourdomain.com* _site/ /sub:withdelete /sync /acl:public-read
      
 Then, go to your site.
