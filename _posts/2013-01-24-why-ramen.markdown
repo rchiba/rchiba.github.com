@@ -1,0 +1,21 @@
+---
+layout: post
+title: Why ramen?
+tags:
+- Food
+status: publish
+type: post
+published: false
+meta:
+  _edit_last: '1'
+---
+
+Why eat ramen when you're in a startup? Startups are about changing the world, and you simply cannot change the world on an unfulfilled pallate. Not only that, startup culture is all about building things. Taking what little resources we have and creating beautiful things. For me, cooking is a hobby that lets me extend that thinking to the home in a healthy and productive way. Here are some noodle recipes that I've come to appreciate that are as quick, but more nutritious and hopefully more enjoyable, than plain instant ramen.
+
+Enhanced Tomato Sauce
+
+Bechamel Sauce with Veggies
+
+Clam Sauce
+
+Creamy Corn Sauce
