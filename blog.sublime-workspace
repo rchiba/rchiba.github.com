@@ -192,6 +192,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ryochiba/Documents/Personal/blog/index.html",
+		"/C/Users/ryochiba/Documents/Personal/blog/assets/css/common.css",
 		"/C/Users/ryochiba/Documents/Personal/blog/README.md",
 		"/C/Users/ryochiba/Documents/Personal/blog/_posts/2012-07-07-how-to-host-a-website-on-amazon-s3.html",
 		"/C/Users/ryochiba/Documents/Personal/blog/_posts/2012-07-16-readme.html",
@@ -317,9 +319,7 @@
 		"/C/Users/ryochiba/Downloads/bootstrap/css/bootstrap.min.css",
 		"/C/Users/ryochiba/Documents/Tint/dev/application/views/pages/aboutus.php",
 		"/C/Users/ryochiba/Documents/Tint/dev/application/views/common/index/aboutheader.php",
-		"/C/Users/ryochiba/Documents/Tint/dev/public/css/bootstrap-2.1.1/css/bootstrap.min.css",
-		"/C/Users/ryochiba/Documents/Tint/dev/system/core/Common.php",
-		"/C/Users/ryochiba/Documents/Tint/dev/public/js/modules/collection.js"
+		"/C/Users/ryochiba/Documents/Tint/dev/public/css/bootstrap-2.1.1/css/bootstrap.min.css"
 	],
 	"find":
 	{
@@ -541,16 +541,16 @@
 		"selected_items":
 		[
 			[
+				"commoncss",
+				"assets/css/common.css"
+			],
+			[
 				"lakersnation",
 				"application/views/pages/tmp/lakersnation.php"
 			],
 			[
 				"header",
 				"application/views/common/profile/header.php"
-			],
-			[
-				"commoncss",
-				"application/views/common/css.php"
 			],
 			[
 				"commonjs",

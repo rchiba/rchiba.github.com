@@ -35,7 +35,7 @@ Steps
 
 (Make a mini-sukiyaki to be put inside the udon)
 
-1. Mix 2 tbsp soy sauce, 1 tbsp sake, 1 tbsp mirin, and 2 tbsp together in a bowl until sugar dissolves.
+1. Mix 2 tbsp soy sauce, 1 tbsp sake, 1 tbsp mirin, and 2 tbsp sugar together in a bowl until sugar dissolves.
 2. Fry the sliced onion in a pan with some oil until semi-translucent (couple minutes)
 3. Throw in meat and other veggies (mushroom, tofu) into pan and fry for a bit until semi-cooked. Then, put all of the sukiyaki liquid from step 1 into the pan and continue heating until beef is 80% cooked (do not overcook, beef can still be a bit pink). Then, turn off the heat.
 
