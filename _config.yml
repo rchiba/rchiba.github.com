@@ -1,4 +1,6 @@
 safe: true
+source: https://github.com/rchiba/blog.git
+destination: ./_site
 lsi: false
 pygments: true
 auto: true
