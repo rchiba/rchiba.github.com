@@ -13,11 +13,13 @@ meta:
 
 I peeked over my stand-up desk to see what Eunice, our Designer, was up to. I needed an asset for our new splash page, and I couldn't find it in our Dropbox. Each member of our small team had a different way of organizing their files, and Eunice and I had such totally different structures that I had spent the past handful of fifteen minutes trying to figure out whether it would be in the myraid of folders within Tint/splashPage1000 or Tint/design/frontPage. Total communication breakdown.
 
-A couple months back, we tried using a variety of tools, including Trello, to organize our team's work and effort. With each tool, a brief spark of utility, then the tool would quickly turn into a ghost town. "Tim Sae Koo updated task: Pricing Page, three weeks ago". Still getting nowhere.
+A couple months back, we tried using a variety of tools, including Trello, to organize our team's work and effort. With each tool, a brief spark of utility would follow, then the tool would quickly turn into a ghost town. "Tim Sae Koo updated task: Pricing Page, three weeks ago". Still getting nowhere.
 
 However, we've recently made some changes to how we use Trello and it has changed our habits significantly, for the better. Note: I believe our approach is best with teams with six people or less.
 
 So without further adieu, here is how we use Trello!
+
+![screenshot of our trello board](https://s3-us-west-1.amazonaws.com/hypes-images/assets/blog/2013-01-31/trello3.PNG)
 
 1. We threw out the [Kanban](http://en.wikipedia.org/wiki/Kanban).
 
