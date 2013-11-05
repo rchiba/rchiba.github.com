@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weights
-description: A short description of the past 4 months of work in the gym
+description: A short description of the past 4 months of work in the gym.s
 tags:
 - weights
 status: publish
@@ -14,7 +14,7 @@ meta:
 ![Graph of Weight](/images/2013-10-24/graph.PNG)
 
 ## Introduction
-On June 28th, Tim and I decided to go to the gym on a regular basis. Our goals were to have fun challenging ourselves, and in the process improve ourselves physically and mentally. My goals were to gain weight, something that I had never tried before. Honestly, it was intimidating, and my biggest fear was gaining fat instead of muscle, but to my relief, after four months everything turned out alright.
+On June 28th, Tim and I decided to go to the gym on a regular basis. Our goals were to have fun challenging ourselves, and in the process improve ourselves physically and mentally. My goals were to gain weight, something that I had never tried before. Honestly, it was intimidating, because I had mostly focused on endurance running for the past couple of years, trying to stay lean. And my biggest fear was gaining fat instead of muscle, but to my relief, after four months everything turned out alright.
 
 ## Quickfacts
 * Buckets of QuickMass used: 2 - $140 total
@@ -25,7 +25,7 @@ On June 28th, Tim and I decided to go to the gym on a regular basis. Our goals w
 * End weight: 151.8 lbs
 
 ## Lessons Learned
-The one trick to seeing results is to make sure you can find a way to have fun at the gym, and to enjoy it. Which I guess is a trick that could be applied to most anything. Starting out, I was perceptively self-conscious about myself, since: 
+The one trick to seeing results was to make sure I could find a way to have fun at the gym, and to enjoy it. Which I guess is a trick that could be applied to most anything. Starting out, I was perceptively self-conscious about myself, since: 
 
 1. I didn't know what I was doing
 2. I felt like everyone else was judging me
@@ -33,18 +33,23 @@ The one trick to seeing results is to make sure you can find a way to have fun a
 
 ![Image of 24 hour fitness app screenshots](/images/2013-10-24/24hr.png)
 
-Component #1 was resolved by having a buddy, Tim, teach me how to do exercises in reasonably good form (still working on it). #2 and #3 are all in your own head, but I'm not saying that to downplay those points. It takes a lot consistent work and effort to combat those negative thoughts and gain enough positive self image to feel comfortable in the gym. I think that the gym is like any other new environment. Experience it enough and it feels like second nature.
+Component #1 was resolved by having a buddy, Tim, teach me how to do exercises in reasonably good form (still working on it). #2 and #3 were all in my head, but I'm not saying that to downplay those points. It takes a lot consistent work and effort to combat those negative thoughts and gain enough positive self image to feel comfortable in the gym. I think that the gym is like any other new environment. Experience it enough and it feels like second nature.
 
 I was lucky in that I knew some basics of exercise before starting this experiment. Like the fundamentals of [progressive overload and strength training](http://en.wikipedia.org/wiki/Strength_training#Progressive_overload).
 
 ## Before and After
-<a href="/images/2013-10-24/beforeandafter.jpg" target="_blank"><img alt="Image of chest before and after" src="/images/2013-10-24/beforeandafter.jpg" />
+The results are visible in the before and after photos below. Nothing exceptional, but it was exciting to see a difference. The biggest change was not in my  physical image, but mental. I felt better about myself, and that manifested itself in everything from a general increase in daily energy, to being more relaxed in social situations.
+
+<a href="/images/2013-10-24/beforeandafter.jpg" target="_blank"><img alt="Image of chest before and after" src="/images/2013-10-24/beforeandafter.jpg" /></a>
 
 ## Bromentage
-And below is a random collection of snapshots taken at the gym. Tim and I were testing an app called Momentage (they work in the same co-working space as us), and thought the title of Bromentage was rather clever.
+Below is a random collection of snapshots taken at the gym. Tim and I were testing an app called Momentage (they work in the same co-working space as us), and thought the title of Bromentage was clever.
 
-<style>._2013_10_24{width:100px; float:left;}</style>
 <a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (1).JPG" style="width:100px; float:left;" /></a>
 <a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (2).JPG" style="width:100px; float:left;" /></a>
 <a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (3).JPG" style="width:100px; float:left;" /></a>
 <a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (4).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (5).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (6).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (7).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (8).JPG" style="width:100px; float:left;" /></a>
