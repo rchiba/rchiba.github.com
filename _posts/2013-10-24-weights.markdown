@@ -45,11 +45,13 @@ The results are visible in the before and after photos below. Nothing exceptiona
 ## Bromentage
 Below is a random collection of snapshots taken at the gym. Tim and I were testing an app called Momentage (they work in the same co-working space as us), and thought the title of Bromentage was clever.
 
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (1).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (2).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (3).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (4).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (5).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (6).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (7).JPG" style="width:100px; float:left;" /></a>
-<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (8).JPG" style="width:100px; float:left;" /></a>
+<div class="clearfix">
+<a href="/images/2013-10-24/bro (1).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (1).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (2).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (2).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (3).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (3).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (4).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (4).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (5).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (5).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (6).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (6).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (7).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (7).JPG" style="width:100px; float:left;" /></a>
+<a href="/images/2013-10-24/bro (8).JPG" target="_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (8).JPG" style="width:100px; float:left;" /></a>
+</div>
