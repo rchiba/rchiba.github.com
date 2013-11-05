@@ -1,0 +1,132 @@
+body, h2, h3, h4, h5{
+	font-family: "kepler-std", Georgia, Times, serif;
+	color: #333333;
+	font-weight:300;
+}
+h1{
+	color: #444444;
+	font-family: "acta-display", Georgia, Times, serif;
+	font-weight: 400;
+	letter-spacing: -1px;
+	text-align:center;
+}
+h2, h3{
+	line-height: 1;
+	margin-top: 50px;
+	margin-bottom: 0;
+	text-align: left !important;
+}
+p, #archive li{
+	margin: 0 0 10px;
+	font-size: 1.35em;
+	line-height: 1.6em;
+	margin-top:30px;
+	font-weight:300;
+}
+ul{
+	list-style-type: square;
+}
+#archive li{
+	margin:0;
+	list-style-type: none;
+	text-align: center;
+}
+#archive ul{
+	margin:0;
+}
+article{
+	border-bottom:1px solid #eee;
+}
+.post-title{
+	font-size: 62px;
+	line-height: 1;
+	margin-top:40px;
+}
+.post-date{
+	text-align:center;
+	color: #999;
+	font-size: 1em;
+	font-style: italic;
+	font-weight: 300;
+	margin-top:0;
+}
+.navbar{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	left: 0;
+	text-align: center;
+}
+
+.navbar .container{
+	text-align:center;
+}
+.navbar .nav{
+	display: inline-block;
+	float: none;
+	font-family: "acta-display", Georgia, Times, serif;
+}
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner{
+	box-shadow: none;
+	border-bottom: 1px solid #eee;
+	background-image: none;
+	background-color: #FFF;
+}
+.navbar .nav > li {
+	width:90px;
+}
+.navbar .nav > li.navbar-title{
+	width: auto;
+	font-size: 24px;
+	line-height: 1;
+	padding: 8px 25px;
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) { 
+
+	.navbar .nav > li {
+		width:80px;
+	}
+	.navbar .nav > li.navbar-title{
+		padding: 8px 2px;
+	}
+
+
+}
+
+.top-item{
+	height:200px;
+	background-color:#FFF;
+	background-color:rgba(255,255,255,0.8);
+}
+.span9{
+	background-color:rgba(255,255,255,0.7);
+}
+.footer{
+	height: 90px;
+	border-top: 1px solid #eee;
+	padding-top: 20px;
+	text-align:center;
+	color:#eee;
+}
+.footer-social-button{
+	padding: 4px 11px;
+	margin-left: 4px;
+	margin-right: 4px;
+	color: #333;
+}
+article img, article object{
+	border: 1px solid #eee;
+	padding: 10px;
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+.pagination{
+	text-align: center;
+}
+.container{
+	margin-top:60px;
+}

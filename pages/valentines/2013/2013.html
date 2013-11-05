@@ -1,0 +1,232 @@
+---
+layout: default
+title: Ryo Chiba
+---
+
+{% include header.html %}
+<link href="/assets/css/animate.min.css" rel="stylesheet">
+
+<style>
+    body{
+        background-image:url(/images/2013-02-06-valentines/paper.png);
+        font-family: "acta-display", Georgia, Times, serif;
+    }
+
+    .introduction{
+        font-size:40px;
+        margin-top:30px;
+        line-height:1.2;
+    }
+
+    .introduction .min{
+        font-size:70%;
+        color:rgb(167, 167, 167);
+    }
+    
+    .cursor{
+        background-color: rgb(68, 68, 68);
+        width: 2px;
+        height: 39px;
+        -webkit-animation-duration: 1.5s;
+        -webkit-animation-name: cursor;
+        -webkit-animation-delay: 1s;
+        -webkit-animation-iteration-count: infinite;
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    @-webkit-keyframes cursor{
+        from{
+            opacity:0;
+        }
+
+        10%{
+            opacity:.8;
+        }
+
+        to{
+            opacity:1;
+        }
+    }
+
+    .chit{
+        -webkit-animation-duration: 0.25s;
+           -moz-animation-duration: 0.25s;
+             -o-animation-duration: 0.25s;
+                animation-duration: 0.25s;
+    }
+
+    .thumb{
+        opacity:0.8;
+    }
+
+    .thumb:hover{
+        opacity:1;
+    }
+
+</style>
+
+<div class="container">
+
+	<div class="row introduction">
+		<div class="span12">
+            Start typing...<div class="cursor"></div>
+		</div>
+	</div>
+    <div class="row">
+        <div class="span12 photos" style="margin-top:30px;">
+        </div>
+    </div>
+
+    <div class="row" style="margin-top:300px;">
+
+    </div>
+
+</div>
+
+
+<script src="/assets/js/underscore-min.js"></script>
+<script src="/pages/valentines/2013/js/jquery.lightbox-0.5.js"></script>
+
+<link href="/pages/valentines/2013/css/jquery.lightbox-0.5.css" rel="stylesheet">
+
+<script type="text/javascript">
+
+ $(document).ready(function(){
+
+    // introduction
+    var text=["Dear Pauline,","<br />"," I am so happy that you are in my life. Without you, I would be lost ","<span class='min'>(quite literally)</span>",". You are my emotional side when I am too logical, and my logical side when I am too emotional. Your work ethic inspires me and your crazy humor always makes me smile. Although soon we will be apart, with you in texas and me in ","<span class='min'>(who knows)</span>",", I hope we can find unity in each other's ","<i class='icon-heart'></i>","'s and keep growing together for many years to come - Ryo", "<br /><br />", "Will you be my valentine?"];
+    var first_click = true;
+    var split_frequency = 5;
+    var text_container = $('.introduction .span12');
+    var text_counter = 0;
+    var text_split = [];
+
+    // process text so that tags are kept intact
+    _.each(text, function(value){
+        if(value.indexOf('<') !== -1){
+            text_split.push(value);
+        } else {
+            text_split = text_split.concat(value.split(""));
+        }
+    });
+    console.log(text_split);
+
+    $(window).keydown(function(){
+        console.log('keydown');
+        if(first_click){
+            text_container.empty();
+            first_click = false;
+        }
+        if(text_counter >= text_split.length){
+            $(window).unbind('keydown');
+            showLovelyPhotos();
+        } else {
+            var html = '<span class="chit animated fadeInUp">'+text_split.slice(text_counter, text_counter + split_frequency).join('')+'</span>';
+            text_container.append(html);
+            text_counter += split_frequency;
+        }
+    });
+    function showLovelyPhotos(){
+        var delay = 400;
+        var images = [
+        {
+            "image": "blueberries.JPG",
+            "caption":""
+        },{
+            "image": "burro.JPG",
+            "caption":""
+        },{
+            "image": "digimon.JPG",
+            "caption":""
+        },{
+            "image": "disneyland.JPG",
+            "caption":""
+        },{
+            "image": "face.JPG",
+            "caption":""
+        },{
+            "image": "face2.JPG",
+            "caption":""
+        },{
+            "image": "field.JPG",
+            "caption":""
+        },{
+            "image": "field2.JPG",
+            "caption":""
+        },{
+            "image": "field3.JPG",
+            "caption":""
+        },{
+            "image": "harneypeak.JPG",
+            "caption":""
+        },{
+            "image": "hawaii.JPG",
+            "caption":""
+        },{
+            "image": "hawaii2.JPG",
+            "caption":""
+        },{
+            "image": "house.JPG",
+            "caption":""
+        },{
+            "image": "jtree.JPG",
+            "caption":""
+        },{
+            "image": "jtree2.JPG",
+            "caption":""
+        },{
+            "image": "mb.JPG",
+            "caption":""
+        },{
+            "image": "river.JPG",
+            "caption":""
+        },{
+            "image": "rollin.JPG",
+            "caption":""
+        },{
+            "image": "sandiego.JPG",
+            "caption":""
+        },{
+            "image": "seal.JPG",
+            "caption":""
+        },{
+            "image": "snow.JPG",
+            "caption":""
+        }];
+
+        var imgBaseUrl = "/images/2013-02-06-valentines/";
+        // preload images
+        function preload(arrayOfImages) {
+            $(arrayOfImages).each(function(){
+
+                $('<img/>')[0].src = imgBaseUrl+"t/"+this.image;
+                // Alternatively you could use:
+                // (new Image()).src = this;
+            });
+        }
+        preload(images);
+
+        var counter = 0;
+        var interval = window.setInterval(
+            function(){
+                if(counter >= images.length ){
+                    $('a.lightbox').lightBox();
+                    window.clearInterval(interval);
+                } else {
+                    var image = images[counter].image;
+                    var caption = images[counter].caption;
+                    $('.photos').append('\
+                        <a href="'+imgBaseUrl+image+'" rel="lightbox" class="lightbox">\
+                        <img class="animated fadeInUp thumb" src="'+imgBaseUrl+'t/'+image+'" alt="" />\
+                        </a>')
+                    counter++;
+                }
+            }
+        , delay);
+    }
+
+});
+</script>
+
+{% include footer.html %}

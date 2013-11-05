@@ -1,0 +1,23 @@
+Getting started with the UNIX command line
+
+Introduction
+When I first got the idea of writing this guide, I thought to myself how childish it might seem to write about a topic is so taken for granted among programmers. How would others look upon me for writing a guide for newbies on how to use a command line? After thinking about it for a bit though, I realized that I had never formally learned how to use this interface which is now such a key component of my day to day activities. My first true experience with CLIs was far later than many of my peers, after my junior year in college at my summer internship at Yahoo! It was only because I had a fantastic mentor (thanks Gokce!) to spend his valuable time teaching me how to work the system that I became someone knowledgeable enough to get work done. At the same time, I realize that with newer, slicker touch-based tablet/laptop hybrids becoming mainstream, the traditional CLI will be even further from the mainstream computing experience: I imagine my newborn nieces growing up in a world where a computer without a touchscreen is weird. Strange, but it will happen! At the same time, the importance of knowing how to interact with a CLI will increase as more and more of our world is powered by software. I know that many other people aren't as lucky as I was to get first hand instruction, and so I hope that I can make a readable entry-level guide to anybody interested in learning how to use a *NIX's CLI.
+
+Who are you, and why are you learning a CLI?
+* You are a computer science student, looking getting started in writing your first programs. Your professor gives you instructions on how to log into the shared network computer, but you've never used anything without a GUI.
+* You are an aspiring web developer, wanting to build and host your first website. The tools that you're learning to use all require you to start them through the command line.
+* You're an IT intern at a small mom and pop business and your manager has to leave for an emergency. He wants you to take care of managing the CLI inventory system while he's away for the next week.
+* You're a researcher who discovers a really useful program to assist you in compiling and analyzing your data sets, but the program has to be used through the command line.
+* You're an accountant, but find the tasks you're doing mundane and in need of some automation because the boss wants you to cough up 100 financial analysis spreadsheets by the end of today. You need to find a programatic way to do the things you're doing because otherwise the deadline's not going to be met.
+
+Basically, any intersection of non-programmer and more serious computing/automation will involve some sort of command line interaction. As someone who has had the luxury of using slick GUI's for his entire 2 decade lifespan, I attest that diving into a CLI can be scary the first time. It's easy to forget that this is how the mainstream computing experience started.
+
+What? This is how it started?
+
+Foray into hollywood's interpretation of the command line
+http://www.youtube.com/watch?v=dFUlAQZB9Ng
+http://jtnimoy.net/workviewer.php?q=178
+
+History of the command line
+
+Since the 1960s, CLI's were the main form of interaction between human and computer. The first mainstream office usage of computers didn't even use screens, but instead teleprinters, which were keyboards hooked up to printers whose output was printed on paper! This was far before my time and I haven't even been able to use such a machine (although my dad had a typewriter he used when I was young), but I find it fascinating that printers used to be computer monitors.

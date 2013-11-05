@@ -1,0 +1,3 @@
+http://krisjordan.com/essays/goodbye-server-configuration-woes-hello-puppet
+http://docs.puppetlabs.com/learning
+http://vagrantup.com

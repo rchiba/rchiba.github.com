@@ -1,0 +1,26 @@
+Author: Ryo Chiba
+Bio: Ryo is a developer and entrepreneur whose favorite feeling is when his customers express happy feelings about the products he helps build. Currently, he is collecting the happiness from Tint (http://www.tintup.com), an easy way to create social hubs on your website.
+Links: 
+http://www.ryochiba.com
+http://www.linkedin.com/pub/ryo-chiba/28/4b3/150
+http://www.facebook.com/ryochiba
+
+3 Things we Learned from our Pivot
+
+Guiding a startup to success is a game of waste-minimization. The biggest waste is of one's own time, and cutting the waste to become a leaner startup is a valuable skill I learned my own painful experiences. In incremental form, becoming leaner means to build less to achieve the same goals (e.g. MVP). But the MVP is just the beginning of the road, and to be a truly lean startup founder, you need to be familiar with the most effective way to cut waste: The Pivot.
+
+The Pivot is a term that is often associated with a great deal of negativity. A pivot usually requires a team to admit to a fundamental mistake, which nobody likes to do. However, I believe The Pivot took our company to a better place. Just six months ago, our team was working on a social bookmarking site with no business plan in sight. Now, our first customers are paying for our post-pivot product: a social aggregation widget. Here are 3 things that we learned from our pivot.
+
+1. Listen!
+
+The main reason we ended up pivoting was because of what our users were saying about the product. We initially delivered a social bookmarking/discovery website, but very few people used our platform to discover new links. The one feature we heard a lot about was our auto-import feature, and most of the feedback we got related to how useful it was that we could generate a beautiful page of their links for them from their existing social networks. From there, we got the feeling that social discovery wasn't a large pain for our users. The key takeaway is that the users should be what is behind a pivot. No amount of internal discussion can equal the weight of solid user feedback.
+
+2. Take a break from what's not working.
+
+A pivot doesn't have to be the single-moment epiphany that it might seem like it needs to be, it can be a gradual shift in focus that spans a week or two. For us, we decided that instead of declaring our old product dead, we would put together another MVP using a copy of our existing code to try to tackle a different problem. This significantly decreased how much friction we felt as we slowly got used to working on something different. At the same time, we could continue to take on feedback from our original product and use that to inform our decision making.
+
+3. Embrace the Pivot
+
+The biggest thing we learned through our pivot was that pivots are just a natural extension of what startup founders do every day: Experimenting with changes to find product-market fit. If your execution plan does not fit reality, then stop. The biggest mistake a founder can make is if they continue to struggle for months after the data is consistently telling them that there is no product-market fit. Yet, it seems that many founders fall into the same trap of grinding with their blinders on, inflexibly tackling a problem that has no market. Embrace flexibility!
+
+The product we ultimately pivoted into, Tint, is now being used by thousands of happy customers, and we were only able to build it by pivoting to incorporate the feedback we received from our customers. When they wanted an easy way to turn their social media into a beautiful page, we took it a step further and created a way to turn their existing networks into a beautiful embeddable social hub.

@@ -1,0 +1,47 @@
+---
+layout: post
+title: Weights
+description: A short description of the past 4 months of work in the gym
+tags:
+- weights
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+---
+
+![Graph of Weight](/images/2013-10-24/graph.PNG)
+
+## Introduction
+On June 28th, Tim and I decided to go to the gym on a regular basis. Our goals were to have fun challenging ourselves, and in the process improve ourselves physically and mentally. My goals were to gain weight, something that I had never tried before. Honestly, it was intimidating, and my biggest fear was gaining fat instead of muscle, but to my relief, after four months everything turned out alright.
+
+## Quickfacts
+* Buckets of QuickMass used: 2 - $140 total
+* Gym membership used: 4 months - $120 total
+* Times I've gone to the gym: 58
+* Days since start of project: 115
+* Start weight: 133.7 lbs
+* End weight: 151.8 lbs
+
+## Lessons Learned
+The one trick to seeing results is to make sure you can find a way to have fun at the gym, and to enjoy it. Which I guess is a trick that could be applied to most anything. Starting out, I was perceptively self-conscious about myself, since: 
+
+1. I didn't know what I was doing
+2. I felt like everyone else was judging me
+3. I was judging myself
+
+![Image of 24 hour fitness app screenshots](/images/2013-10-24/24hr.jpg)
+
+Component #1 was resolved by having a buddy, Tim, teach me how to do exercises in reasonably good form (still working on it). #2 and #3 are all in your own head, but I'm not saying that to downplay those points. It takes a lot consistent work and effort to combat those negative thoughts and gain enough positive self image to feel comfortable in the gym. I think that the gym is like any other new environment. Experience it enough and it feels like second nature.
+
+I was lucky in that I knew some basics of exercise before starting this experiment. Like the fundamentals of [progressive overload and strength training](http://en.wikipedia.org/wiki/Strength_training#Progressive_overload).
+
+## Before and After
+![Image of chest before and after](/images/2013-10-24/beforeandafter.jpg)
+
+## Bromentage
+And below is a random collection of snapshots taken at the gym. Tim and I were testing an app called Momentage (they work in the same co-working space as us), and thought the title of Bromentage was rather clever.
+
+<style>._2013_10_24{width:100px; float:left;}</style>
+<img class="_2013_10_24" src="/images/2013-10-24/bro (1).JPG" />
