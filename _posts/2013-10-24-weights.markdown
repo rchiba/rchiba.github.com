@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weights
+title: Weight
 description: A short description of the past 4 months of work in the gym.s
 tags:
 - weights
@@ -31,9 +31,11 @@ The one trick to seeing results was to make sure I could find a way to have fun 
 2. I felt like everyone else was judging me
 3. I was judging myself
 
+Component #1 was resolved by having a buddy, Tim, teach me how to do exercises in reasonably good form (still working on it). #2 and #3 were all in my head, but I'm not saying that to downplay those points. It takes a lot consistent work and effort to combat those negative thoughts and gain enough positive self image to feel comfortable in the gym. I think that the gym is like any other new environment. Experience it enough and it feels comfortable.
+
 ![Image of 24 hour fitness app screenshots](/images/2013-10-24/24hr.png)
 
-Component #1 was resolved by having a buddy, Tim, teach me how to do exercises in reasonably good form (still working on it). #2 and #3 were all in my head, but I'm not saying that to downplay those points. It takes a lot consistent work and effort to combat those negative thoughts and gain enough positive self image to feel comfortable in the gym. I think that the gym is like any other new environment. Experience it enough and it feels like second nature.
+One important thing that I always kept in mind while doing this was to consciously develop a habit. Habits are created through consistency. I tried to be as consistent as possible. I had days where I didn't want to go to the gym, but I was able to overcome these feelings by remember that I wasn't just missing this specific day, I was missing out on developing a habit, consequently affecting all of my days ahead. 
 
 I was lucky in that I knew some basics of exercise before starting this experiment. Like the fundamentals of [progressive overload and strength training](http://en.wikipedia.org/wiki/Strength_training#Progressive_overload).
 
