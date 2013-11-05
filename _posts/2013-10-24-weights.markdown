@@ -31,17 +31,20 @@ The one trick to seeing results is to make sure you can find a way to have fun a
 2. I felt like everyone else was judging me
 3. I was judging myself
 
-![Image of 24 hour fitness app screenshots](/images/2013-10-24/24hr.jpg)
+![Image of 24 hour fitness app screenshots](/images/2013-10-24/24hr.png)
 
 Component #1 was resolved by having a buddy, Tim, teach me how to do exercises in reasonably good form (still working on it). #2 and #3 are all in your own head, but I'm not saying that to downplay those points. It takes a lot consistent work and effort to combat those negative thoughts and gain enough positive self image to feel comfortable in the gym. I think that the gym is like any other new environment. Experience it enough and it feels like second nature.
 
 I was lucky in that I knew some basics of exercise before starting this experiment. Like the fundamentals of [progressive overload and strength training](http://en.wikipedia.org/wiki/Strength_training#Progressive_overload).
 
 ## Before and After
-![Image of chest before and after](/images/2013-10-24/beforeandafter.jpg)
+<a href="/images/2013-10-24/beforeandafter.jpg" target="_blank"><img alt="Image of chest before and after" src="/images/2013-10-24/beforeandafter.jpg" />
 
 ## Bromentage
 And below is a random collection of snapshots taken at the gym. Tim and I were testing an app called Momentage (they work in the same co-working space as us), and thought the title of Bromentage was rather clever.
 
 <style>._2013_10_24{width:100px; float:left;}</style>
-<img class="_2013_10_24" src="/images/2013-10-24/bro (1).JPG" />
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (1).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (2).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (3).JPG" style="width:100px; float:left;" /></a>
+<a href="" target=_blank"><img class="_2013_10_24" src="/images/2013-10-24/bro (4).JPG" style="width:100px; float:left;" /></a>
