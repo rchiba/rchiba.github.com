@@ -36,3 +36,5 @@ Performance bottlenecks are more pronounced on mobile because of a number of con
 * [Advanced Widget Performance Optimizations - Meebo Bar Team](http://www.slideshare.net/marcuswestin/meebo-performance-nywebperformance-6461496)
 * [Strategies for Iframe on iPad Problem](http://dev.magnolia-cms.com/blog/2012/05/strategies-for-the-iframe-on-the-ipad-problem/)
 * [Steve Hannah's Blog Post About Iframe issues](http://sjhannah.com/blog/?p=218)
+* [Stack Overflow - webkit overflow scrolling touch broken in ios7](http://stackoverflow.com/questions/18736297/webkit-overflow-scrolling-touch-broken-in-ios7)
+* [Apple Forums - iOS and webkit-overflow-scrolling broken](https://devforums.apple.com/message/885616#885616)
