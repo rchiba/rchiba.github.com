@@ -23,7 +23,7 @@ Nekozushi, or cat sushi, is my latest obsession. I couldn't find a wallpaper for
 * [1366x768](/images/2013-11-11/neko_1366_768.jpg)
 * [1440x900](/images/2013-11-11/neko_1440_900.jpg)
 * [1680x1050](/images/2013-11-11/neko_1680_1050.jpg)
-* [1920x1080](/images/2013-11-11/neko_1920x1080.jpg)
+* [1920x1080](/images/2013-11-11/neko_1920_1080.jpg)
 
 ## Nekozushi Resources
 
