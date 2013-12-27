@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startups need organizational role models
+title: Startups need role models too
 description: Understanding why companies choose to use a certain technology or adopt a certain organizational policy.
 tags:
 - methodology
