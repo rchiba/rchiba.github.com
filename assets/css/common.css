@@ -130,3 +130,13 @@ article img, article object{
 .container{
 	margin-top:60px;
 }
+
+article ul{
+	font-size: 1.35em;
+	line-height: 1.65em;
+	margin: 0 auto;
+}
+
+article li{
+	margin: 1em auto;
+}
