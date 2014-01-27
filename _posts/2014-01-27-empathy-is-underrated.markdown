@@ -29,23 +29,23 @@ See the pattern? The answer lies in *empathy*, being able to perceive the world 
 
 > The paradox is that in order to have [emotional] influence, you have to be influenced - The 7 Habits of Highly Effective People
 
-Simply put, there's no way of providing for a customers correctly without getting their input. Although Steve Jobs may have famously said, "(Customers don't know what they want)[http://www.forbes.com/sites/chunkamui/2011/10/17/five-dangerous-lessons-to-learn-from-steve-jobs/]", consider that most of Apple's products redefined entire product categories, and that's not the domain of most businesses. If you're like any regular business, you will want to constantly improve on your empathy. How?
+Simply put, there's no way of providing for a customers correctly without getting their input. Although Steve Jobs may have famously said, "(Customers don't know what they want](http://www.forbes.com/sites/chunkamui/2011/10/17/five-dangerous-lessons-to-learn-from-steve-jobs/]", consider that most of Apple's products redefined entire product categories, and that's not the domain of most businesses. If you're like any regular business, you will want to constantly improve on your empathy. How?
 
 ## What we do to improve customer empathy:
 
-!(Screenshot of Tint support email)[https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/V0ZFffbGg6XRVvr/Screen%20Shot%202014-01-27%20at%2012.09.37%20AM.png]
+![Screenshot of Tint support email](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/V0ZFffbGg6XRVvr/Screen%20Shot%202014-01-27%20at%2012.09.37%20AM.png)
 
 ### Give out your Cell Phone Number
 
 Put your personal phone number in your communications with your most important customers. Encourage them to give you a ring! We've found great success in giving our largest customers multiple avenues to reach us. Although this might not scale in the future, [we think it's worth it](http://paulgraham.com/ds.html).
 
-!(Screenshot of customer instant messenger)[https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/nMZQuxFhk3YxCO4/Screen%20Shot%202014-01-27%20at%2012.12.38%20AM.png]
+![Screenshot of customer instant messenger](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/nMZQuxFhk3YxCO4/Screen%20Shot%202014-01-27%20at%2012.12.38%20AM.png)
 
 ### Add customers to your instant messanger
 
 Add your customers via gchat or skype and build a relationship. We do this with a few of our agencies, and it makes it incredibly easy to get instant feedback on something when you think to yourself, "I wish I could ask a customer _right now_!" Having customers know your company on a first name basis starts with knowing your customers on a first name basis.
 
-!(Screenshot of Tint customer feedback survey)[https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/tf9nKjdsSpN7kWk/Screen%20Shot%202014-01-27%20at%2012.16.02%20AM.png]
+![Screenshot of Tint customer feedback survey](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/tf9nKjdsSpN7kWk/Screen%20Shot%202014-01-27%20at%2012.16.02%20AM.png)
 
 ### Send nicely-crafted surveys
 
@@ -61,12 +61,12 @@ When it comes to building a positive workplace and striving for better employee 
 
 ## What we do to improve team empathy:
 
-!(Screenshot of compensation google doc)[https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/wl14TxxvArMGWfL/Screen%20Shot%202014-01-27%20at%2012.18.35%20AM.png]
+![Screenshot of compensation google doc](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/wl14TxxvArMGWfL/Screen%20Shot%202014-01-27%20at%2012.18.35%20AM.png)
 ### Transparent Compensation
 
 All of our compensation structure is made public within the company so that everyone can have a full picture and make sure that they feel that all team members are being compensated fairly in relation to each other. Making salaries public fosters empathy because it forces other people to consider the perspective of others when discussing compensation.
 
-!(Photo of team tint)[https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/hyOzFsF668GVKlR/Screen%20Shot%202014-01-27%20at%2012.22.04%20AM.png]
+![Photo of team tint](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/hyOzFsF668GVKlR/Screen%20Shot%202014-01-27%20at%2012.22.04%20AM.png)
 ### Encourage Sales/Engineering cross communication
 
 Ever since the beginnings of the sales team (with the hiring of Zen, our Director of Sales), the development team (which was Nik and I) have always strived to make sure communication between Sales and Development was tight. We want to make sure that either team is 100% comfortable talking to the other team, and this communication fosters inter-departmental empathy that manifests itself in a number of positive ways including:
@@ -75,7 +75,7 @@ Ever since the beginnings of the sales team (with the hiring of Zen, our Directo
 * Practical ideas from Sales being implemented by the Devs, such as automating key parts of their workflow
 * Efficient prioritization of inter-departmental tasks made possible by openly communicated cost/benefit.
 
-!(Photo of team tint)[https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/T0onmk0HJRaonZS/Screen%20Shot%202014-01-27%20at%2012.20.36%20AM.png]
+![Photo of team tint](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/T0onmk0HJRaonZS/Screen%20Shot%202014-01-27%20at%2012.20.36%20AM.png)
 ### We have each other's backs
 
 We understand that anyone can make a mistake, even our own teammates. By discouraging a blame-based culture, we build stronger bonds as well as encouraging people to speak the truth, to admit things that they feel are going wrong, and to work together to find solutions to inadequacies. Sure, blaming someone might be easier, but in the long run, a team that blames among itself is not a team, but rather a collection of disgruntled individuals.
