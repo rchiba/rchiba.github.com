@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empathy: The most underrated business skill that can save or kill your startup.
+title: Empathy is Underrated
 description: No one cares how much you know, until they know how much you care - Theodore Roosevelt
 tags:
 - methodology
