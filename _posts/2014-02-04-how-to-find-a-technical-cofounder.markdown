@@ -29,6 +29,7 @@ Let's start by examining the average recruitment email:
 > Skills required: We believe they will need skills in PHP, MySQL, Ruby on Rails, Backbone.js, Angular, Databases, and Cloud Computing
 
 Here are some mistakes:
+
 * Mystery Product - There are exactly zero details on what the idea or project is about, resulting in exactly zero interest being sparked.
 * The NDA - Do not ask people to sign an NDA. Ideas are a dime a dozen, it disrespects whoever you are sending the email to, and starts the conversation in a distrustful tone.
 * "Hacker attitude / Rockstar / Amazing" - These buzzwords illustrate an 'us' vs 'them' attitude towards people with technical skills. Nobody in CS calls themselves a rockstar hacker.
