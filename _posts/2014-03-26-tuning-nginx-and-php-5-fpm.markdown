@@ -44,7 +44,7 @@ I changed pm.max\_children = 5 to pm.max\_children = 375
 See the links below for more details on what these settings mean.
 
 ## Additional Findings
-![average day](https://www.evernote.com/shard/s28/sh/0373d0ec-41d1-4819-8be2-6caf2d07e039/c7163cfa4015b2886d66ae14a8d76bf6/deep/0/Overview---Google-Analytics.png)
+!(average day)[https://www.evernote.com/shard/s28/sh/0373d0ec-41d1-4819-8be2-6caf2d07e039/c7163cfa4015b2886d66ae14a8d76bf6/deep/0/Overview---Google-Analytics.png]
 * All of our traffic (~1600 concurrent users on Google Analytics realtime overview) can be handled by a single server with these new configurations. CPU of the single server handling all of our traffic was ~40%.
 * 6 of these servers behind a load balancer, an average of 53RPS could be handled while keeping response time less than 1s. Usually our RPS is around 5-15.
 
