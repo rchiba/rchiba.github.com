@@ -36,7 +36,7 @@ Those 5 steps allowed me to finally figure out a combination of settings that al
 ## Server Configuration Changes
 
 ### /etc/nginx/nginx.conf:
-!(what I changed in nginx.conf)[https://www.evernote.com/shard/s28/sh/fbd35cb2-bdac-4a05-b478-a53ad7e9590f/97671f7a075683fbc5431fb52d62c177/deep/0/added-nginx-optimizations---5461e45---hypemarks-tint\_app.png]
+![what I changed in nginx.conf](https://www.evernote.com/shard/s28/sh/fbd35cb2-bdac-4a05-b478-a53ad7e9590f/97671f7a075683fbc5431fb52d62c177/deep/0/added-nginx-optimizations---5461e45---hypemarks-tint\_app.png)
 
 ### /etc/php5/fpm/pool.d/www.conf:
 I changed pm.max\_children = 5 to pm.max\_children = 375
