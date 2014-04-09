@@ -31,7 +31,7 @@ Outline what your needs are with the build server. For example, my needs were:
 * Have an easy to use UI to see breaking builds
 * Have easy integration to email, HipChat, and Github
 
-Tools:
+## Tools:
 
 * [Travis CI](http://travis-ci.com/) - I used them over CircleCI because Travis seemed to have more industry adoption and also had a better UI and documentation.
 * [Sauce Labs](https://saucelabs.com) - The leader in Selenium Grid SAAS, they also do a lot of active development on open source Selenium projects such as [Selenium Builder](https://saucelabs.com/builder), which is cool.
@@ -62,12 +62,12 @@ Even with all of these useful tools, it took me a good couple of days to get the
 * [Quora: What are the alternatives to Travis CI?](http://www.quora.com/Travis-CI/What-are-the-alternatives-to-Travis-CI)
 * [Rainforest QA](https://www.rainforestqa.com/) - An interesting concept that we looked into briefly in the beginning, but decided we wanted tests to be run more frequently than could be done by manual testers.
 
-### Weird things I ran into
+## Weird things I ran into
 
-* When sauce labs tells you to insert the following into your travis.yml:
+When sauce labs tells you to insert the following into your travis.yml:
     curl https://gist.github.com/santiycr/5139565/raw/sauce_connect_setup.sh | bash
 It should actually be
     curl https://gist.githubusercontent.com/santiycr/5139565/raw/sauce_connect_setup.sh | bash
 Otherwise, you'll get a strange "Connection refused" error.
 
-* Trying to load a second private repo in your Travis build server will result in a "Repository not found" or "Authentication failed" error which can only be fixed using [this obscure support article](http://docs.travis-ci.com/user/travis-pro/).
+Trying to load a second private repo in your Travis build server will result in a "Repository not found" or "Authentication failed" error which can only be fixed using [this obscure support article](http://docs.travis-ci.com/user/travis-pro/).
