@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Introduction
@@ -20,15 +20,17 @@ Know what people are looking for in their next job.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
 
-And know why your job is what people are looking for. What are your strengths? 
+And know why your job is what people are looking for. 
+
+Your job post should **highlight your strengths**. 
 
 For example, our strength is our company culture. Our mission is to build a company culture that champions transparency, fairness, happiness, and sustainability. And we make sure to highlight that in our job posting:
 
-* **Profit Sharing** - We split 20% of all revenue made over 100k and distribute it evenly among the team.
-* **Team Transparency** - We calculate compensation based on a formula that we all agree on. Cap table is made available to all employees. Business financials are known by all teammates.
-* **Personal Autonomy / Consensus Driven Culture** - We foster consensus-driven rather than top-down decision making when it comes to important business decisions. From what features to build next to what furniture to buy for the office, we believe it's the fairest way of making decisions.
-* **Customer Driven Culture** - We're very in-tune with our customers and they love us. For example, we decide what features to build based on surveys we send directly to customers. Check out [this one](http://bit.ly/1fc73kh) that we sent out last year to decide what we would build this past quarter.
-* **Personal Development Stipend** - A monthly stipend designed for self-improvement. Whether it's books, yoga classes, or a fitness tracker, we want our teammates to improve themselves.
+> - **Profit Sharing** - We split 20% of all revenue made over 100k and distribute it evenly among the team.
+- **Team Transparency** - We calculate compensation based on a formula that we all agree on. Cap table is made available to all employees. Business financials are known by all teammates.
+- **Personal Autonomy / Consensus Driven Culture** - We foster consensus-driven rather than top-down decision making when it comes to important business decisions. From what features to build next to what furniture to buy for the office, we believe it's the fairest way of making decisions.
+- **Customer Driven Culture** - We're very in-tune with our customers and they love us. For example, we decide what features to build based on surveys we send directly to customers. Check out [this one](http://bit.ly/1fc73kh) that we sent out last year to decide what we would build this past quarter.
+- **Personal Development Stipend** - A monthly stipend designed for self-improvement. Whether it's books, yoga classes, or a fitness tracker, we want our teammates to improve themselves.
 
 ## Send Quality Emails
 
@@ -42,28 +44,29 @@ Quality recruiting emails are emails that recognize that understand the candidat
 - Startups Need Role Models Too - a blog post I wrote about our team's role models
 - Tint Gallery - A sample of our customers
 
+Key Observations:
+- Give the candidate a small assignment to assess their interest in the listing.
 - Arm your candidate with the basic knowledge you expect them to know so you can have a productive discussion.
-- Give the candidate the motivation they need to get excited about the opportunity
-- 
+- Give the candidate the motivation they need to get excited about the opportunity.
+
+**Protip: Use [Assistant.to](http://www.trybetty.com/assistantto/index.html) to schedule your interviews. It's a Gmail extension that allows you to easily give candidates a way to instantly book a meeting with you and have it show up in your calendar!**
 
 
 
 ## Use a CRM
 
-
+Handing resumes manually through email is incredibly time consuming. Use one of thousands of resume tracking Applicant Tracking Software (ATS in recruiter lingo) such as [Resumator](https://www.theresumator.com/), [Jobvite](http://recruiting.jobvite.com/), or [JobScore](http://www.jobscore.com/) to simplify your life.
 
 ## Find creative places to post to
 
 A job listing link can travel far! But it's your job to take it there. Consider the following places we posted our link to:
 
-![tint craigslist](/https://www.evernote.com/shard/s28/sh/64b2d948-e6c6-4717-9d50-e4d34ee2591c/7da135e608128e1a29b4656e4fe908b1/deep/0/craigslist-account.png)
+![tint craigslist](https://www.evernote.com/shard/s28/sh/64b2d948-e6c6-4717-9d50-e4d34ee2591c/7da135e608128e1a29b4656e4fe908b1/deep/0/craigslist-account.png)
 
 - Craigslist - We posted our listing on 10 major metro tech centers advertising paid relocation and had some success on attracting some good candidates. At $25 a posting, it was an affordable way to reach attractive candidates in markets that have much less competition than San Francisco.
-- Hacker News - We found some quality candidates (including one of our interns) from this source
-- Indeed/Careers/Monster
-- Github Jobs
-- StackOverflow Careers
-- Reddit
-
-## Fail fast and learn
+- Hacker News - We found some quality candidates (including one of our interns) from posting our listing as a comment within the monthly "Who's Hiring" thread. It gets posted on the 1st of every month, so don't miss out!
+- Indeed/Careers/Monster - Surprisingly, these mainstream job boards are frequented by talented people too! Most ATS systems will post to these major boards automatically, so be sure to configure your system to do that.
+- Github Jobs - We found some alright leads from this paid posting, fewer applicants but the average quality was higher.
+- StackOverflow Careers - We paid to run a campaign on StackOverflow but found that all of the submissions were overseas Java developers at big corporations looking for visa sponsorships. Maybe we were doing something wrong, but we ended up asking for a refund.
+- Reddit - Plenty of subreddits to explore if you're looking to find a community of people who you think would be a good fit. Think [/r/bigdatajobs](http://www.reddit.com/r/bigdatajobs) or [/r/sysadminjobs](http://www.reddit.com/r/sysadminjobs)
 
