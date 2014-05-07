@@ -20,7 +20,7 @@ Our second engineering hire, Brett, came from Nikhil's extended network and not 
 
 Know what people are looking for in their next job. 
 
-**Hint: Mastery, Autonomy, Purpose**
+**Hint: it's probably Mastery, Autonomy, and Purpose**
 <iframe width="560" height="315" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
 
 And know why your job is what people are looking for. 
