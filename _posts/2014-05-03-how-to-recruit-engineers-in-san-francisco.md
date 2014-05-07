@@ -42,10 +42,11 @@ Quality recruiting emails are emails that recognize that understand the candidat
 > Thanks for scheduling a time with me! To prep for our interview, I'd recommend reading up on our company, getting familiar with what we do, and coming up with a few questions to ask us.
 
 > Here are some helpful links to peruse:
-- About Tint - a brief overview of our team and our company culture
-- Tint, 2013 Year in Review - a brief history of how Tint grew in 2013
-- Startups Need Role Models Too - a blog post I wrote about our team's role models
-- Tint Gallery - A sample of our customers
+
+>- [About Tint](http://www.tintup.com/about) - a brief overview of our team and our company culture
+- [Tint, 2013 Year in Review](http://www.tintup.com/blog/tint-year-in-review-2013/) - a brief history of how Tint grew in 2013
+- [Startups Need Role Models Too](http://www.tintup.com/blog/startups-need-role-models-too/) - a blog post I wrote about our team's role models
+- [Tint Gallery](http://www.tintup.com/clients) - A sample of our customers
 
 Key Observations:
 
@@ -68,8 +69,8 @@ A job listing link can travel far! But it's your job to take it there. Consider 
 
 ![tint craigslist](https://www.evernote.com/shard/s28/sh/64b2d948-e6c6-4717-9d50-e4d34ee2591c/7da135e608128e1a29b4656e4fe908b1/deep/0/craigslist-account.png)
 
-- Craigslist - We posted our listing on 10 major metro tech centers advertising paid relocation and had some success on attracting some good candidates. At $25 a posting, it was an affordable way to reach attractive candidates in markets that have much less competition than San Francisco.
-- Hacker News - We found some quality candidates (including one of our interns) from posting our listing as a comment within the monthly "Who's Hiring" thread. It gets posted on the 1st of every month, so don't miss out!
+- Craigslist - We posted our listing on 10 major metro tech centers advertising paid relocation and had some success on attracting some good candidates. **At $25 a posting, it was an affordable way to reach attractive candidates in markets that have much less competition than San Francisco.**
+- Hacker News - We found some quality candidates (including one of our interns) from posting our listing as a comment within the monthly "Who's Hiring" thread. **It gets posted on the 1st of every month, so don't miss out!**
 - Indeed/Careers/Monster - Surprisingly, these mainstream job boards are frequented by talented people too! Most ATS systems will post to these major boards automatically, so be sure to configure your system to do that.
 - Github Jobs - We found some alright leads from this paid posting, fewer applicants but the average quality was higher.
 - StackOverflow Careers - We paid to run a campaign on StackOverflow but found that all of the submissions were overseas Java developers at big corporations looking for visa sponsorships. Maybe we were doing something wrong, but we ended up asking for a refund.
