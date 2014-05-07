@@ -37,7 +37,7 @@ Your job post should **highlight your strengths**.
 
 ## Send Quality Emails
 
-Quality recruiting emails are emails that recognize that understand the candidate. Here are some tips to [add some empathy](http://www.tintup.com/blog/empathy-the-most-underrated-business-skill/) to your correspondance, embedded in a sample Tint recruitment email:
+Quality recruiting emails are emails that recognize and understand the candidate. Here are some tips to [add some empathy](http://www.tintup.com/blog/empathy-the-most-underrated-business-skill/) to your correspondance, embedded in a sample Tint recruitment email:
 
 > Thanks for scheduling a time with me! To prep for our interview, I'd recommend reading up on our company, getting familiar with what we do, and coming up with a few questions to ask us.
 
