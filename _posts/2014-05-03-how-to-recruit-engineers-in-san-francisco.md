@@ -2,6 +2,8 @@
 published: true
 ---
 
+![small teams looking for more people](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/nUV4GxfOgNXeetV/IMGP2863.jpg)
+
 ## Introduction
 
 6 months ago, Nikhil and I were the only developers at our 4 person startup. With business growing steadily, we were so spread thin that there was no hope of improving our product if we didn't bring more help onto the team. So, Nik and I put our recruiting hats and began our journey to find talented engineers to join us. Fast forward 6 months to the present, and our Engineering team is about to grow to 7 (including 2 interns!), and I can safely say that I've learned a whole lot in the process:
@@ -18,6 +20,7 @@ Our second engineering hire, Brett, came from Nikhil's extended network and not 
 
 Know what people are looking for in their next job. 
 
+**Hint: Mastery, Autonomy, Purpose**
 <iframe width="560" height="315" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
 
 And know why your job is what people are looking for. 
