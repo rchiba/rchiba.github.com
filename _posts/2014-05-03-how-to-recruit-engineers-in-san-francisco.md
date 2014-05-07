@@ -4,7 +4,7 @@ published: true
 
 ## Introduction
 
-6 months ago, Nikhil and I were the only developers at our 4 person startup. Business was growing steadily, and we were so spread thin that there was no hope of improving our product if we didn't bring more help onto the team. So, Nik and I put our recruiting hats and began our journey to grow our team. Fast forward 6 months to the present, and our Engineering team is about to grow to 7 (including 2 interns!), and I can safely say that I've learned a whole lot in the process:
+6 months ago, Nikhil and I were the only developers at our 4 person startup. With business growing steadily, we were so spread thin that there was no hope of improving our product if we didn't bring more help onto the team. So, Nik and I put our recruiting hats and began our journey to find talented engineers to join us. Fast forward 6 months to the present, and our Engineering team is about to grow to 7 (including 2 interns!), and I can safely say that I've learned a whole lot in the process:
 
 ## Never consider recruitment work "a waste of time"
 
@@ -12,7 +12,7 @@ Time spent finding the right people for your team lays the foundation for everyt
 
 ## Work your network
 
-Our second engineering hires, Brett, came from Nikhil's extended network and not from any job board or recruiting company. You never know who's looking and with social media, it's easier than ever to let all of your friends know that you're looking to hire. It's also easier to bring someone onto the team if they're vetted by a friend than if they are a stranger. Not only do you feel like you can trust their competency, they can also trust that yours through the mutual friend. 
+Our second engineering hire, Brett, came from Nikhil's extended network and not from any job board or recruiting company. You never know who's looking and with social media, it's easier than ever to let all of your friends know that you're looking to hire. It's also easier to bring someone onto the team if they're vetted by a friend than if they are a stranger. Not only do you feel like you can trust their competency, they can also better trust your competency! 
 
 ## Post a Quality Job Post
 
@@ -24,7 +24,7 @@ And know why your job is what people are looking for.
 
 Your job post should **highlight your strengths**. 
 
-For example, our strength is our company culture. Our mission is to build a company culture that champions transparency, fairness, happiness, and sustainability. And we make sure to highlight that in our job posting:
+**For example, our strength is our company culture.** Our mission is to build a company culture that champions transparency, fairness, happiness, and sustainability. And we make sure to highlight that in our job posting:
 
 > - **Profit Sharing** - We split 20% of all revenue made over 100k and distribute it evenly among the team.
 - **Team Transparency** - We calculate compensation based on a formula that we all agree on. Cap table is made available to all employees. Business financials are known by all teammates.
@@ -45,12 +45,14 @@ Quality recruiting emails are emails that recognize that understand the candidat
 - Tint Gallery - A sample of our customers
 
 Key Observations:
+
 - Give the candidate a small assignment to assess their interest in the listing.
 - Arm your candidate with the basic knowledge you expect them to know so you can have a productive discussion.
 - Give the candidate the motivation they need to get excited about the opportunity.
 
-**Protip: Use [Assistant.to](http://www.trybetty.com/assistantto/index.html) to schedule your interviews. It's a Gmail extension that allows you to easily give candidates a way to instantly book a meeting with you and have it show up in your calendar!**
+**Protip:** Use [Assistant.to](http://www.trybetty.com/assistantto/index.html) to schedule your interviews. It's a Gmail extension that allows you to easily give candidates a way to instantly book a meeting with you and have it show up in your calendar!
 
+**Protip 2:** Use [Yesware](http://www.yesware.com/) to create templates for your common recruiting emails, saving you further time.
 
 
 ## Use a CRM
@@ -70,3 +72,6 @@ A job listing link can travel far! But it's your job to take it there. Consider 
 - StackOverflow Careers - We paid to run a campaign on StackOverflow but found that all of the submissions were overseas Java developers at big corporations looking for visa sponsorships. Maybe we were doing something wrong, but we ended up asking for a refund.
 - Reddit - Plenty of subreddits to explore if you're looking to find a community of people who you think would be a good fit. Think [/r/bigdatajobs](http://www.reddit.com/r/bigdatajobs) or [/r/sysadminjobs](http://www.reddit.com/r/sysadminjobs)
 
+## Conclusion
+
+You are doing yourself a disservice if you're not putting your full effort into recruiting if you're looking to expand your team. It's better to do things thoroughly once than to lukewarmly recruit for a longer period of time. Follow the tips above, and finding an engineer in San Francisco shouldn't be as impossible as everyone says.
