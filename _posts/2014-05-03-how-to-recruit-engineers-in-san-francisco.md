@@ -74,4 +74,4 @@ A job listing link can travel far! But it's your job to take it there. Consider 
 
 ## Conclusion
 
-You are doing yourself a disservice if you're not putting your full effort into recruiting if you're looking to expand your team. It's better to do things thoroughly once than to lukewarmly recruit for a longer period of time. Follow the tips above, and finding an engineer in San Francisco shouldn't be as impossible as everyone says.
+If you're looking to expand your team, you have to recruit like a pro. It's better to do things thoroughly from the get-go than to lukewarmly recruit for a longer period of time. Follow the tips above, and finding an engineer in San Francisco shouldn't be as impossible as everyone says.
