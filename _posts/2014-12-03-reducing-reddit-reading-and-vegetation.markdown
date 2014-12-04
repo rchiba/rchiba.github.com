@@ -17,10 +17,11 @@ My monthly self improvement challenge this month was to reduce low quality info 
 * __Opportunity Cost__: There are many higher value things to read that I would personally feel more gratification reading.
 
 How did I go about doing it?
+
 * Installed [RescueTime](https://www.rescuetime.com/)
 * Willpower
 
-Results:
+### Results:
 
 ### October
 ![October Productivity](https://www.evernote.com/shard/s28/sh/34e1dfe9-cda9-4f28-94ac-0389f762637f/65980006053aa4caa48b59ad0a46d118/deep/0/Screen-Shot-2014-12-03-at-5.16.24-PM.png)
@@ -29,6 +30,7 @@ Results:
 ![December Productivity](https://www.evernote.com/shard/s28/sh/1cee624c-3b82-4c7e-a353-71ec5b671b23/47fff79f548b68239f5a166a48ebd514/deep/0/Screen-Shot-2014-12-03-at-5.16.53-PM.png)
 
 Some interesting numbers:
+
 * __reddit, HN, medium, vanity fair, chow, sfgate, nytimes__: Top distracting sites in October
 * __10 hours -> 4 hours__: 60% reduction in time spent on distracting websites from October to November
 * __63 hours -> 64 hours__: negligible change in time spent doing software development
