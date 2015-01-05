@@ -13,6 +13,8 @@ meta:
 
 I did an analysis of my transaction history for 2014 to try to dig up answers to a question that has been in the back of my mind all year: How am I spending my money?
 
+In the spirit of radical transparency, here are the numbers.
+
 Dataset: [Transactions](http://ryochiba.com/files/2015-01-05-transactions.xlsx)
 
 * Paychecks: $75225
@@ -45,4 +47,5 @@ appropriately. What this analysis says is essentially that my food and discretio
 
 Total travel spend this year comes down to approximately $3.5k, which is about 5% of my income, which I see as too little. In 2015 I want to travel more, and aim to increase that percentage to 7% which would correspond with a large trip every quarter.
 
-As for savings goals, my goal is to exceed a savings rate of 55% for the next year. If no large unexpected big costs occur, then both my travel and savings goals should be attainable. If some unexpected costs come up as they always do, I will probably cut into my savings rate rather than travel just because I may only have the next decade to travel with true freedom.
+As for savings goals, my goal is to continue to avoid lifestyle inflation and exceed a savings rate of 55% for the next year. If no large unexpected big costs occur, then both my travel and savings goals should be attainable. If some unexpected costs come up as they always do, I will probably cut into my savings rate rather than travel just because I may only have the next decade to travel with true freedom. Another goal for this year is to find a way to put more time into volunteering and philanthropy as I know many people don't have the opportunity
+to pursue financial independence.
