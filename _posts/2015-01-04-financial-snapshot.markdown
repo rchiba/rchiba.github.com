@@ -38,7 +38,7 @@ Dataset: [Transactions](http://ryochiba.com/files/2015-01-05-transactions.xlsx)
 
 ## Graphs
 
-![Image of transportation over the year](http://ryochiba.com/files/2015-01-05-transportation.png)
+<a href="http://ryochiba.com/files/2015-01-05-transportation.png"><img src="http://ryochiba.com/files/2015-01-05-transportation.png" alt="Image of Transportation 2015" style="max-width:100%; width:100%" /></a>
 
 ## Conclusions and Goals
 
