@@ -21,14 +21,12 @@ Dataset: [Transactions](http://ryochiba.com/files/2015-01-05-transactions.xlsx)
 * Rent: $9600/yr
 * Average Rideshare Spend: $121/mo
 * Average Total Transportation Spend: $252/mo
-
 * Big costs of 2014:
-- Equity: $7096.61
-- Personal Debts: $2300
-- Trip to Chicago: $635 + $608 flight for 2 = $1243
-- Trip to Denver: $595 trip + $262 flight = $857
-- Trip to KC: $514 trip + $345 flight = $857
-
+  * Equity: $7096.61
+  * Personal Debts: $2300
+  * Trip to Chicago: $635 + $608 flight for 2 = $1243
+  * Trip to Denver: $595 trip + $262 flight = $857
+  * Trip to KC: $514 trip + $345 flight = $857
 * Total 2014 Subway Spend: $172
 * Average Subway Meal: $6.10
 * Total 2014 Lee's Deli Spend: $389
@@ -38,7 +36,7 @@ Dataset: [Transactions](http://ryochiba.com/files/2015-01-05-transactions.xlsx)
 
 ## Graphs
 
-![Image of transportation over the year](http://www.ryochiba.com/files/2015-01-05-transportation.png)
+![Image of transportation over the year](http://ryochiba.com/files/2015-01-05-transportation.png)
 
 ## Conclusions and Goals
 
@@ -47,4 +45,4 @@ appropriately. What this analysis says is essentially that my food and discretio
 
 Total travel spend this year comes down to approximately $3.5k, which is about 5% of my income, which I see as too little. In 2015 I want to travel more, and aim to increase that percentage to 7% which would correspond with a large trip every quarter.
 
-As for savings goals, my goal is to exceed a savings rate of 55% for the next year. If no large unexpected big costs occur, then both my travel and savings goals should be attainable.
+As for savings goals, my goal is to exceed a savings rate of 55% for the next year. If no large unexpected big costs occur, then both my travel and savings goals should be attainable. If some unexpected costs come up as they always do, I will probably cut into my savings rate rather than travel just because I may only have the next decade to travel with true freedom.
