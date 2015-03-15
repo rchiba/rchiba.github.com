@@ -1,0 +1,161 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Budgets for Pebble - Settings</title>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+    <style type="text/css">
+
+    </style>
+
+    <script type="text/template" class="budget-template">
+        <div class="row budget-row">
+            <div class="col-xs-6">
+                <input value="<%= type %>" type="text" class="form-control budget-type" placeholder="Type">
+            </div>
+            <div class="col-xs-4">
+                <div class="form-inline">
+                  <div class="form-group">
+                    <div class="input-group">
+                      <div class="input-group-addon">$</div>
+                        <input type="text" class="form-control budget-amount" placeholder="Amount" value="<%= money %>">
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class="col-xs-2">
+                <button class="btn btn-danger btn-block remove"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>
+            </div>
+        </div>
+    </script>
+
+    <script type="text/javascript">//<![CDATA[ 
+    $(window).load(function(){
+        function getURLVariable(name)  {
+            name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+            var regexS = "[\\?&]"+name+"=([^&#]*)",
+            regex = new RegExp(regexS),
+            results = regex.exec(window.location.href);
+            if (results == null){
+                return "";
+            } else {
+                return results[1];
+            }
+        }
+
+        var budgetsString = getURLVariable('budgets');
+        var budgets = [];
+        if(budgetsString){
+            budgets = JSON.parse(budgetsString);
+        }
+
+        $('.budgets').empty();
+
+        var budgetTemplate = _.template($('.budget-template').html());
+
+        _.each(budgets, function(budget){
+            $('.budgets').append(budgetTemplate(budget));
+        });
+
+        $('body').delegate('.remove', 'click', function(e){
+            $(e.currentTarget).parents('.budget-row').remove();
+        });
+
+        $('.add').click(function(){
+            $('.budgets').append(budgetTemplate({
+                type: "",
+                money: ""
+            }));
+        });
+
+        $('.save').click(function(){
+            $('.has-error').removeClass('has-error');
+            var budgetsToSave = [];
+            $('.budget-row').each(function(index, budgetRow){
+                var type = $(budgetRow).find('.budget-type').val();
+                var money = $(budgetRow).find('.budget-amount').val();
+
+                if(type || money){
+                    if(/[^0-9\.]/.test(money)){
+                        alert('Please only enter numbers into budget category amount');
+                        $(budgetRow).find('.budget-amount').parent().addClass('has-error');
+                    }
+
+                    if(!money){
+                        alert('Category amount is required');
+                        $(budgetRow).find('.budget-amount').parent().addClass('has-error');
+                    }
+
+                    if(type.length > 7){
+                        alert('Category name must be 7 characters or less');
+                        $(budgetRow).find('.budget-type').parent().addClass('has-error');
+                    }
+
+                    if(!type){
+                        alert('Category type is required');
+                        $(budgetRow).find('.budget-type').parent().addClass('has-error');
+                    }
+
+                    if($(budgetRow).find('.budget-type').val()){
+                        budgetsToSave.push({
+                            type: type,
+                            money: parseInt(money * 100, 10)
+                        });
+                    }
+                }
+                
+            });
+            var location = 'pebblejs://close#' + encodeURIComponent(JSON.stringify(budgetsToSave));
+            
+            if($('.has-error').length === 0){
+                console.log('location: '+location);
+                document.location = location;
+            }
+        });
+
+    });//]]>  
+
+    </script>
+
+
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12">
+            <h1>Budgets for Pebble Settings</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Budget Categories</h2>
+        </div>
+    </div>
+    <div class="budgets">
+        <!-- budgets rendered here -->
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="form-group">
+                <button class="btn btn-success btn-block add">
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add Budget Category
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="form-group">
+                <button class="btn btn-primary btn-block save">
+                    <span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Save
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+  
+</body>
+</html>
