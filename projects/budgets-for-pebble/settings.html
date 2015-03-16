@@ -48,8 +48,12 @@
 
         var budgetsString = getURLVariable('budgets');
         var budgets = [];
-        if(budgetsString){
-            budgets = JSON.parse(budgetsString);
+        try{
+            if(budgetsString){
+                budgets = JSON.parse(budgetsString);
+            }
+        }catch(e){
+            console.log('error parsing budget string');
         }
 
         $('.budgets').empty();
@@ -106,9 +110,11 @@
                         });
                     }
                 }
-                
+
             });
-            var location = 'pebblejs://close#' + encodeURIComponent(JSON.stringify(budgetsToSave));
+            var location = 'pebblejs://close#' + encodeURIComponent(JSON.stringify(
+                { budgets: budgetsToSave }
+            ));
             
             if($('.has-error').length === 0){
                 console.log('location: '+location);
