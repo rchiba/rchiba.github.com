@@ -51,7 +51,7 @@
         var budgets = [];
         try{
             if(budgetsString){
-                budgets = JSON.parse(budgetsString);
+                budgets = JSON.parse(decodeURIComponent(budgetsString));
             }
         }catch(e){
             console.log('error parsing budget string');
