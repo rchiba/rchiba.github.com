@@ -2,3 +2,4 @@ markdown: kramdown
 paginate: 7
 baseurl: ""
 gems: [jekyll-paginate]
+url: "http://ryochiba.com"

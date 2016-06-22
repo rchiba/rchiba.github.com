@@ -12,6 +12,11 @@
 	{% if page.date %}
 	<meta http-equiv="date" content="{{page.date |date: '%A, %d  %Y %H:%M:%S GMT'}}" />
 	{% endif %}
+
+	{% if page.image %}
+	<meta name="og:image" content="{{site.url}}{{page.image}}" />
+	{% endif %}
+
 	<meta name="robots" content="{{page.index}}INDEX,{{page.follow}}FOLLOW" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="google-site-verification" content="EUqY4zpjFhEQNzsPOlM2twNBVUmP4DBINMXBDPmAC5M" />
