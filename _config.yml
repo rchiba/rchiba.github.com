@@ -1,4 +1,4 @@
-safe: true
-markdown: rdiscount
-paginate: 5
-baseurl: http://ryochiba.com
+markdown: kramdown
+paginate: 7
+baseurl: ""
+gems: [jekyll-paginate]

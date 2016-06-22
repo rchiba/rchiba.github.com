@@ -1,9 +1,8 @@
 ---
 layout: post
-title: An open letter to the tech workers of SF
-description: 'Google is Hitler'. What would you say to that?
+title: An open letter to tech workers of SF
 tags:
-- thoughts
+- life
 status: publish
 type: post
 published: true
