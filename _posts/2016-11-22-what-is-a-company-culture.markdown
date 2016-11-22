@@ -40,7 +40,14 @@ Most people would be excited to work at any of these companies, yet they occupy 
 
 So where does TINT fit in the chart? Last year, I had the company sit down and take a 20 question survey to figure it out. I asked the team, “Where do you think our company is today, and where do you want it to be tomorrow?”. And this year, I did the same thing. [Here are the results that I got](https://jsfiddle.net/5rtd099w/8/) (You can use the checkboxes to explore the data):
 
+<style>
+.company-culture-custom-format iframe{
+height:700px;
+}
+</style>
+<div class="company-culture-custom-format">
 <script async src="//jsfiddle.net/5rtd099w/8/embed/result/"></script>
+</div>
 
 ## Some initial observations:
 * **People > Company** - We are more people oriented than company oriented. This makes sense, as the company has produced policies that give employees more flexibility and freedom.
