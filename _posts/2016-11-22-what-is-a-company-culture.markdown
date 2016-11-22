@@ -23,6 +23,7 @@ Last year Lukas, our PM and go-to person for all miscellaneous knowledge, introd
 Schneider’s model divided companies by how they score on two axes, one axis is the “personal vs impersonal”. Are decisions made in a detached and objective way that focuses on the company, or are they personal, taking into account the individuals involved? The other axis is “actuality vs possibility”. Are decisions made with a focus on what we can actually accomplish today, or the possibility of tomorrow?
 
 Based on these two basic ideas, he divided corporate cultures into 4 types: 
+
 * Collaboration - “We succeed by working together”
 * Control - “We succeed by getting and keeping control”
 * Competence - “We succeed by being the best”
@@ -31,6 +32,7 @@ Based on these two basic ideas, he divided corporate cultures into 4 types:
 ![Schneider Culture Model](https://draftin.com:443/images/47895?token=GI7xiE7tQkC4Z2zrEHSSPvLDjj0IF5h50jq5cnX7WEO5nQZywEcYnBrwWKxV-flGd2-8J8WRxpzOdcLQKnOtlqA) 
 
 What I liked about this model is that there isn’t a *“good”* and a *“bad”* culture. These are all different types of cultures that succeed in different environments. There are examples of Great Places to Work™ in each of these categories. For example:
+
 * Collaboration - Delta, UPS, Valve
 * Control - Proctor and Gamble, Marriot, US Army 
 * Competence - Microsoft, Citibank, Pixar, Netflix
