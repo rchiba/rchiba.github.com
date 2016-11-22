@@ -68,12 +68,13 @@ After doing this exercise, I think it would be even more valuable if other compa
 
 ## Your Turn
 Do you want to do the same experiment for your team?
-* Step 1: Copy this [Schneider Culture Survey google form](https://docs.google.com/forms/d/1tNLXjRAfQR_PDLyLU9bo6oT742NHyOWzNZO-1CimOf4/edit?usp=sharing)
-* Step 2: Use the results, and [this google sheet](https://docs.google.com/spreadsheets/d/1-GnOUhFVxL6-TbOigcUdbRnFd_mwSzuewehy3y5i5os/edit?usp=sharing) as a template to figure out X and Y coordinates from the results
-* Step 3: Reflect!
+
+* **Step 1**: Copy this [Schneider Culture Survey google form](https://docs.google.com/forms/d/1tNLXjRAfQR_PDLyLU9bo6oT742NHyOWzNZO-1CimOf4/edit?usp=sharing)
+* **Step 2**: Use the results, and [this google sheet](https://docs.google.com/spreadsheets/d/1-GnOUhFVxL6-TbOigcUdbRnFd_mwSzuewehy3y5i5os/edit?usp=sharing) as a template to figure out X and Y coordinates from the results
+* **Step 3**: Reflect!
 
 ## Additional Reading
-* [Culture of Agility Slideshare] (http://www.slideshare.net/petebehrens/the-culture-of-agility) - More slides on the Schneider Culture Model and how it applies to Agile
+* [Culture of Agility Slideshare](http://www.slideshare.net/petebehrens/the-culture-of-agility) - More slides on the Schneider Culture Model and how it applies to Agile
 * [Different Organizational Culture Models (PDF)](https://www.springer.com/cda/content/document/cda_downloaddocument/9783319118260-c1.pdf?SGWID=0-0-45-1488863-p177004790) - A research paper comparing and contrasting various corporate culture models developed over the years
 * [Making Your Culture Work Slideshare]( http://www.slideshare.net/nbatsios/making-your-culture-work) - I like this deck because it has a group exercise at the end where you can do the above, but in a group setting as part of an in-person session.
 
