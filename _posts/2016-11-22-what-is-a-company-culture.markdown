@@ -77,11 +77,11 @@ Do you want to do the same experiment for your team?
 * **Step 2**: Use the results, and [this google sheet](https://docs.google.com/spreadsheets/d/1-GnOUhFVxL6-TbOigcUdbRnFd_mwSzuewehy3y5i5os/edit?usp=sharing) as a template to figure out X and Y coordinates from the results
 * **Step 3**: Reflect! Some questions to ask yourself:
   * Do I agree or disagree with the results, why?
-    * What policies and processes at the company reflect your culture quadrant?
-      * How dispersed is everyone's assessment of the organization, and what does it mean?
-        * How can these results help the team better express the company's culture?
+  * What policies and processes at the company reflect your culture quadrant?
+  * How dispersed is everyone's assessment of the organization, and what does it mean?
+  * How can these results help the team better express the company's culture?
 
-        If you do go about doing the above, [book a time](https://calendly.com/ryochiba/15min) to share your results with me. And even if you don't, I'm happy to chat about anything related to company cultures in startups, I enjoy connecting with like minds on the topic.
+If you do go about doing the above, [book a time](https://calendly.com/ryochiba/15min) to share your results with me. And even if you don't, I'm happy to chat about anything related to company cultures in startups, I enjoy connecting with like minds on the topic.
 
 ## Additional Reading
 * [Culture of Agility Slideshare](http://www.slideshare.net/petebehrens/the-culture-of-agility) - More slides on the Schneider Culture Model and how it applies to Agile
