@@ -18,7 +18,7 @@ meta:
 
 ## The Problem
 
-My company, TINT, produces dynamic social displays for digital signage (among many social media related products). If you're walking through a mall and you see Instagram photos show up on a kiosk screen, it could be us, especially if it's a Westfield mall or inside an Under Armour store. Our product is built using web technologies (HTML/CSS/JS) and is rendered through a web browser.
+My company, TINT, produces dynamic social displays for digital signage (among many social media related products). If you're walking through a mall and you see Instagram photos show up on a kiosk screen, it could be us, especially if it's a Westfield mall. Our product is built using web technologies (HTML/CSS/JS) and is rendered through a web browser.
 
 Traditionally, we have relied on the browsers supplied by the signage company vendors, such as Broadsign, Brightsign, and FourWindsInteractive to render our content. However, this often results in performance issues because the hardware isn't powerful enough to render smooth animations in a browser, or the browser is outdated and difficult to support.
 
