@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Farewell to TINT
-description: If you're connected to me or anyone else at TINT, you might know that we've been looking for someone to take the keys to our company for quite some time.
+description: If you're connected to me or anyone else at TINT, you might know that we've been looking for someone to take the keys to our company.
 tags:
-- A TAG
+- work
 status: publish
 type: post
 published: true
@@ -11,15 +11,15 @@ meta:
   _edit_last: '1'
 ---
 
-![Old TINT Photos](https://draftin.com:443/images/62430?token=ojm8E19Mp_rahFHvzyMU7ix_KLCLZGlVn5OQos-gWt-bpO1FGpExVgt7JrN1Tg7OU-hM797E3r1WpBjqaaEQfEw) 
+![Old TINT Photos](/images/2018-09-20/old_photos.jpg)
 
-If you're connected to me or anyone else at TINT, you might know that we've been looking for someone to take the keys to our company for quite some time. Our search over the past year has been fraught with so many ups and downs that it deserves its own series of posts, but the big news is that we signed a deal to sell TINT to [Filestack](https://www.filestack.com/). The press release will cover what both organizations want the world to know: This deal is a winning union between two successful companies, combining forces to strategically take on more of the user generated content market.
+If you're connected to me or anyone else at TINT, you might know that we've been looking for someone to take the keys to our company. The big news is that we signed a deal to sell TINT to [Filestack](https://www.filestack.com/). The press release will cover what both organizations want the world to know: This deal is a winning union between two successful companies, combining forces to strategically take on more of the user generated content market.
 
-I wholeheartedly believe this is true. But, this post isn't about that. It's about what the deal means for me, in a way that could never be represented in a merger agreement or capitalization table.
+I wholeheartedly believe this is true. But, this post isn't about that. It's about what the deal means for me, in a way that could never be represented in a merger agreement or capitalization table. 
 
 ## Company Timeline
 
-To catch you up on what we've been up to for the past 7 years:
+We started this journey in 2011. Raised $370k in 2012. Pivoted and launched TINT in 2013. Hit break-even in 5 months. Bootstrapped it to $5M ARR with 30 people. Sold it to Filestack in 2018. What happenned in between? Here's a company timeline:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aXQd_desG8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -29,57 +29,100 @@ To catch you up on what we've been up to for the past 7 years:
 
 **2012**: Through a lot of hustle and luck, Tim builds the initial team, and Hypemarks goes from a university basement student project to a seed funded startup.
 
-![Tent](https://draftin.com:443/images/61188?token=jzbmySOysI0nesZAWP2u1gHKsbhQwbKZldCK893oXzOWYUeGqKceqd3ClOcBxUXnPhhaidmw2ZmilXJGISF7W30) 
+![Tent](/images/2018-09-20/tent.jpg) 
 
-**2013**: Founders move to SF, pivot from Hypemarks to TINT, almost run out of money, and at the last minute achieve ramen profitability. Tim and I shared a studio together, and I slept on an air mattress in a tent.
+**2013**: Founders move to SF, pivot from Hypemarks to TINT, almost run out of money, and at the last minute achieve ramen profitability. Tim and I shared a studio together, and I slept on an air mattress in a tent (see photo above).
 
-![Rohith's First Day](https://draftin.com:443/images/62403?token=9Ds8RNHxU37lzt2fZBXxkGJDXfqoJ6BsyjZa8FxHR8puE6yGZfTxodD-uEBlhlH5JaIkfpBsRI00NqqovHB5VHc) 
+![Rohith's First Day](/images/2018-09-20/ros_first_day.jpg) 
 
 **2014**: Ramen profitability turns to sustainable business growth and we hire the first employees. Pictured above are Zen and Ro on Ro's first day.
 
-![New Office](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463964569744_2501bryant.jpg)
+![New Office - 2501 Bryant](/images/2018-09-20/2501_bryant.jpg)
 
 **2015**: Growth continues quickly, with impressive customers signing on, and TINT expands rapidly. 19 to 37 full-time employees. Moving from a 3,000 to 10,000 sqft office. Expanding sales globally with reps in UK, Dubai, and Brazil.
 
-![TINT revenue vs expenses](https://draftin.com:443/images/62407?token=RVvllCxnMn__Tc5PGfy8DchdikXcSzHZzK9i2JgDiddMkPUxAstjnG0Yi5GKDQh4KUeg3vPcZ3LYQ_VukNwWnwQ) 
+![TINT revenue vs expenses](/images/2018-09-20/financial_snapshot.png) 
 
 **2016**: Revenue growth plateaus while expenses climb due to rapid growth, so we have our [first layoffs](http://ryochiba.com/2016/06/08/tough-times-dont-last-but-tough-startups-do.html) to stabilize the business, and work to reduce churn and increase contract value.
 
-![16110496_1258214344258005_2669742978179792896_n.jpg](https://draftin.com:443/images/62432?token=CcNpqBWjKK90yExLjWFW9ZjNfTVJmLFJH9xxKnnpkgtLKiO3s5c3pC35OcBdwHixddhAuWuvtdLzXHQ2MvF11L8) 
+![Tim giving a speech](/images/2018-09-20/tim_speech.jpg)
 
-**2017**: Revenue still hasn't grown so we continue pushing hard as a team, offering an unlimited plan for enterprises, and later in the year we hire experienced senior directors of sales and marketing.
+**2017**: Despite having significantly grown our average contract value, overall revenue still hasn't grown so we continue pushing hard as a team, offering an unlimited plan for enterprises, bringing in a customer success consultant to help us reduce churn, and later in the year we hire experienced senior directors of sales and marketing. Our goal is to push into the enterprise space.
 
-![Packing up](https://draftin.com:443/images/62431?token=xpV50NEIkOR33DIVopt1ef8un0jDL7O6ao_CkIfnyiWS0MVuM-YbGCrmNVnWXQ18_lEF4b3j1G5byfAmIhi72sM) 
+![Cofounders at Scaleworks](/images/2018-09-20/scaleworks.jpg)
 
-**2018**: The investments we made in 2017 did not result in growth, so we make big cuts in sales and marketing and focus on profitability instead of growth. We move out of our office in the Mission and into a coworking space. Tim works full time on an exit.
+**2018**: The investments we made in 2017 did not result in traction in the enterprise space, so TINT switches direction to focus back on the self-service market and going back to profitability. During this time, Tim intensifies his search for potential acquirers, and after considering multiple offers, we sign a deal with Scaleworks / Filestack.
 
 ## Looking Back
 
-Looking back on the timeline, it's actually shocking to me how long I was able to last on the emotional rollercoaster. The innocence of the early years, the exuberance of early growth, the shock of hitting the plateau, the determination in the face of continuous challenge, and the grind of a slow retraction.
+Looking back on the timeline, it's shocking to me how much has happenned at TINT over the years. The innocence of the early days, the exuberance of early growth, the shock of hitting the plateau, the determination in the face of continuous challenge, and the uncertainty of looking for an exit.
 
 My worldview has changed thanks to all of the madness that comes with operating a small business. Tim has handled more of it than anyone else, but me, Nik, and others on the team have faced it at one point or another. There's a lot of crazy stuff behind the scenes that no-one talks about. Patent trolls. Ex-employee going rogue and stealing customers. Surprise illegal office zoning. Surprise Instagram API changes that break the product. Getting customers (temporarily) blacklisted by Google for mining bitcoin. Layoffs. Lost friends. Burnout.
 
-And TINT was able to find a way to handle each of those situations. As time has passed, the sharp pain of these situations has mellowed into experience. And the experience is what I joined this team, so ultimately I am grateful for the opportunity.
+But the team was able to find a way to handle each of those situations. As time has passed, the sharp pain of these situations has mellowed into experience. And the experience is why I joined this team, so ultimately I am grateful for the opportunity to learn valuable lessons.
 
-There are also many good memories that I hope to keep forever. Hackathons where we built some really cool stuff. Getting lunch with the engineering team in the south park every day. Retreats in grand mountain houses. Rallying together in times of company crisis. Meeting customers who love our product. Meeting random people who have used our product. Seeing the product randomly out there in the world.
+## Lessons Learned
 
-And the relationships. To think that TINT helped create friendships and professional connections that people will take with them into the future, that is rewarding to think about. 
+As expected with our first company, we succeeded at a couple things, failed at many more. Below are a couple of things we learned along the way:
+
+### No Playbooks
+
+I've read countless startup books, blog articles, podcasts, videos, HN comment threads, slideshares and the biggest lesson I've learned from putting these resources into action is that it's rare to find a panacea, "golden rule", or even a shortcut. It's counterintutive that this is my first point because below I basically go into my own schpeel about what you're supposed to do, but I've found that every hard situation is unique in is difficulty, and there are no easy playbooks or advice to follow when you feel like you need it the most. Tim put it well when I talked to him about this. "I don't ask for advice anymore. I ask for someone's experience and figure out what's relevant for me."
+
+### Growth Hacking and SEO
+
+A big part of how we got our initial traction was thanks to our efforts to continuously find hackish ways to distribute our product. In the beginning, we built Hypemarks profiles for celebrities for them to promote on social media. Later, we integrated TINT into the Wix app market when it first opened, piggybacking on its growth. The biggest traction-creating boost was when I created keyword-specific landing pages and pointed our product's embed backlinks to them, catapulting us to the front page for searches for "instagram widget" and "twitter widget". Unlike writing code, with growth hacking, effort is not closely related to impact on a project-to-project basis. It's about experimenting as many channels as possible and seeing what sticks. I'm grateful to have had the opportunity to exercise my SEO skills while at TINT as well. I've found that organic search is one of the most underrated, least understood areas for digital marketers. 
+
+### Solutions > Products
+
+When we first built Hypemarks, we took a product-first approach where the end user's problem was secondary to our own excitement about the idea. Luckily we were able to pivot in time to not run out of money, but for the next company, I'm going to spend more time trying to understand a customer before jumping to build a product.
+
+### Never compromise on hiring
+
+One of the most valuable things that can't be described in a blog post but must be learned first-hand is the skill of evaluating how competent someone is at their role. In the beginning we as founders had zero experience in this area, so it took us a couple of years to get okay at this. Looking back, the biggest variable in our company's success (after product-market-fit) was who we hired. We got incredibly lucky to have attracted and retained certain people. These people were classic "multipliers" who were able to go beyond their role and amplify the efforts of the entire team. On the other hand, we also had our share of mishires who added years to reaching our goals. Unfortunately if you're a new grad starting your own company, there's no way out of this issue, you just have to fail at it and learn. Otherwise, this will be a function of the quality of the teams you have worked on.
+
+### Self care
+
+Being a founder is lonely because of both the pressure to exude success and the difficulty in connecting with others who have been through a similar situation. There were times when I felt hopeless. We were lucky that with 3 founders that there was some redundancy and it almost never occurred where all three of us were hopeless at the same time. Being proactive in building a support network within our organization and outside of it was one of the best things we did to stay healthy and productive.
+
+### Good Management
+
+For a period of time before 2016, we thought Holocracy, flat structures, and manager-less environments were superior to more traditional org structures. We quickly learned that there's a reason why people have been doing things a certain way when it comes to organizing people. I'm sure more wealthy organizations that can buy more talent to make this work, but for TINT, a bootstrapped startup consisting entirely of inexperienced millenials, it became inefficient fast. 
+
+### One person can change everything, but everyone should be replaceable
+
+The usual saying is "everyone is replaceable". But there really are certain special people who are so rare that they may as well be irreplaceable. Building TINT helped me understand what the threshhold of replaceability is, how to evaluate the tradeoffs of making a keep/cut decision, and to what lengths to go to keep people. In general, our instinct at TINT was to keep compensation relatively flat and help B and C players at the expense of rewarding A players, and although it helped us create some level of camaraderie, it also hurt us in many ways. We had many A players leave us earlier than they needed to due to this culture. Next time I will better understand tradeoffs of creating a more "cultivation"-focused company culture.
+
+### Don't sign a 4 year lease on the basis of a growth projection
+
+This one seems dumb, but I had to put it in here because it's one of our most painful lessons. In 2015 we were rapidly growing, and projecting our rapid growth into the future, we saw that we would easily have the budget for a much larger office. At the time, we justified our move by saying we would be more productive as a team with a better space, but looking back, a 4-year committment was an unnecessary committment that caused us to depend financially on a growth projection that never materialized. Not making that mistake again!
+
+### Special early-company things
+
+There were a few important things that we did early on in the company that we would not have been able to do later. For example, making our salaries transparent and based on a formula. Or making our cap table transparent. Another example was when we created a self-improvement program that eventually became a culture-defining company tradition with high employee participation and buy-in. I'm thankful that didn't miss the window for doing these special things. It's important to identify those special things that you can only do when you're a small team that the organization can grow into as new team members are added on.
+
+## Good Memories
+
+![Good Memories](/images/2018-09-20/memories.jpg) 
+
+Besides all the lessons, there are also many good memories that I hope to keep forever. Hackathons where we built eye-tracking social signage. Getting lunch with the engineering team in the South Park every day. Retreats in grand mountain houses. Rallying together in times of company crisis. Meeting customers who love our product. Meeting random people who have used our product. Seeing the product randomly out there in the world.
+
+And the relationships. TINT helped create friendships and professional connections that people will take with them into the future.
 
 So yeah, it's been a wild ride. And there's a lot to be grateful for, even the bad stuff.
 
-The ride has exceeded my expectations. Because I had no idea that this is how TINT would turn out when I met Tim, and there have been so many serendipitous twists and turns along the way. And to describe how much this TINT experience has exceeded my expectations, I will now indulge myself in writing a brief description of my life as it relates to this company:
+The ride has exceeded my expectations. I just had no idea that this is how TINT would turn out when I met Tim. To describe how much this TINT experience has exceeded my expectations, I will now indulge myself in writing a brief description of my life as it relates to this company:
 
 ## Humble Beginnings
 
-![First Computer](https://draftin.com:443/images/62404?token=omgAdTjDSFkAy26shB3E8BjEDl5kQ_G5ov7LOfvSkX5-9vN1cZjNjVSZmHWzi7t4A320jBFaTIGdZOJXFYdOWng) 
-
+![First Computer](/images/2018-09-20/powermac.jpg) 
 Sometime in the mid 90's our family got our first computer (the photo above is the model our family got, a Power Mac 7100). I remember learning about the Internet, loading a webpage for the first time, and being **amazed** that anyone in the world would see the same page if they typed the same thing into the address bar. And not only that, but anyone could create pages for whatever they wanted, even me! But unfortunately after asking my parents to help me set up a web page, they said that it costs money and even if they were to pay money to let their 8-year old dabble in web things, they wouldn't know how to do it.
 
-![Screenshot of Angelfire page](https://draftin.com:443/images/62433?token=SPEM3O4fbK_ZmdQF6KI-Wod61twRdmmwYMHZqSRgwBXzw8DKyibsK4MrcruDgEqZVPTcIzqXeP7lZrGPiHOf9m4) 
+![Screenshot of Angelfire page](/images/2018-09-20/angelfire.png)
 
 So, I aged through my regular milestones, and later on I learned basic HTML/CSS by customizing my Neopets shopfront, setting up an Angelfire page of strange pre-adolescent musings, and modifying my Blogger template. My dream job in middle school was working for Flickr as "PHP Engineer", but it was seemingly totally unattainable. I saw some PHP when I clicked on the wrong button on Wordpress and it was intimidating and gibberish-like.
 
-![Screenshot of Robotics Homepage](https://draftin.com:443/images/62405?token=BRNXdoovsKwVwCSPfqkuxJZ3gZQy0k7EyGYnGBmtp6hG5aMybIjv30WXhD72-0W_CY-UoB2gG0nN2ZpKZ-3-bt8) 
+![Screenshot of Robotics Homepage](/images/2018-09-20/robotics.png)
 
 In high school I was part of the robotics team, but I didn't do any robot programming. I was embarrassed to try when there were already other kids who knew how to do "real programming" so I worked on the Public Relations team where we focused on putting together marketing material to promote robotics. Brochures, essays, an animation, and a website (screenshot above).
 
@@ -95,13 +138,13 @@ After switching majors, that's when I started reading Hacker News more and learn
 
 When I met Tim, it was through my ex-girlfriend Pauline, who went up to him to ask about planting more trees on campus. Tim was in Student Government, part of the Environmental Committee. Tim couldn't do anything to help, but asked her if she knew anyone in the engineering school who could help him with his idea. She did, and that's how my relationship with Tim began.
 
-![Screenshot of email with Tim](https://draftin.com:443/images/61154?token=PrfC2bSTFKBaXY1FB1Gcn-mWQlco5mnLlMfW7Oi7j1ujn-h7ohd89JBblLdN3ZOnZxVLej0OEF51tJBzmp-tcmo) 
+![Screenshot of email with Tim](/images/2018-09-20/email.png) 
 
 We worked out of a student apartment, meeting after class and staying late into the night. This is embarrassing to admit but imagine the most wantrapreneur college students hunched over our laptops listening to The Social Network soundtrack on repeat. That was us. Listening to that soundtrack still brings me back to those uncertain days.
 
-That summer, I managed to get an internship at real tech company, Yahoo! Out of the [30 companies I applied to](https://docs.google.com/spreadsheets/d/1eoeuBg-9F_jn2kT2zGWdA-zSdXxX2yjQY_3DrG8cS14/edit?usp=sharing&authkey=CIf-tPQH), I got accepted to 2. And was the 7th pick at the one I joined. I learned enough web development at that internship to be able to come back senior year and actually contribute to Tim's Hypemarks project.
+That summer, I managed to get an internship at real tech company, Yahoo! Out of the [30 companies I applied to](https://docs.google.com/spreadsheets/d/1eoeuBg-9F_jn2kT2zGWdA-zSdXxX2yjQY_3DrG8cS14/edit?usp=sharing&authkey=CIf-tPQH), I got accepted to 2 (Yahoo and Adobe). And was the 7th pick at the one I joined (shoutout to those 7 people who decided Yahoo wasn't for them!). I learned enough web development at that internship to be able to come back senior year and actually contribute to Tim's Hypemarks project.
 
-All of this life-history summary is to say that I never expected to be able to have the skills and knowledge to go off and help create a product and organization as substantial as TINT. Even though 2016-2018 were hard years where we weren't able to grow the business, I am still incredibly lucky to have chanced into the opportunity to achieve my wildest dreams.
+All of this life-history summary is to say that I never expected to be able to have the skills and knowledge to go off and help create a product and organization as substantial as TINT. Even though 2016-2018 were hard years where we weren't able to grow the business, I am still incredibly lucky to have chanced into the opportunity to achieve my dreams.
 
 I am really lucky.
 
@@ -109,49 +152,48 @@ I am really lucky.
 
 There is just too much gratitude to express.
 
-![IMG_1532 (1).JPG](https://draftin.com:443/images/62435?token=DSVtYl2rIVhaAwYSdV-_HBHJfaoRdBoUYjg63XnTKFdp92HwCvnLRRX4QlhIVOqjNJojLtMgO6QMvDE2hlDQ5xM) 
+![Tim Sae Koo](/images/2018-09-20/tim.jpg) 
 
 **Tim** - I hope you are able to take the break you need after TINT because you deserve it. People say shit rolls downhill but I've found that it rolls equally uphill. When all the easy decisions have been made by others, the hardest ones are the ones you had to face. You have unfailingly looked out for the best interest of the team and company and that's the most anyone can ask for in a leader. "It's not about the idea, it's about the team." That's what you said to me when I was on the fence about joining you after graduating. I'm lucky to have trusted you.
 
-![Me and Nik at Leavey Library](https://draftin.com:443/images/61189?token=j_RUuqJODqw92gkkhhhodsf0dwOMLCp6kOwXsS-zpP7Z2DNcsptmkMr8_DYhP80DD45NDSV4BUZ1lPrxDxBiqxg) 
+![Ryo and Nik at Leavey Library](/images/2018-09-20/ryo_and_nik.jpg) 
 
 **Nik** - It's hard to believe that we met in a library basement in college, and have been working together almost daily up until today. What a pleasure it has been to work with such an ambitious and hard working person like you. Someday I will search google for "sean parker of india" and see your name as the first result. Thank you for having my back, and also being outrageously photogenic and letting me take countless pictures of you throughout our TINT journey.
 
-![IMGP9021.JPG](https://draftin.com:443/images/61197?token=ESRW_PiC4dlES_JqwZFHiZzfdUoM962K1NJPQNUtl9iS_tK3bUsKG4a6q_VEEphN5iaAPj8yIMaqwYllEoVKOyY) 
+![Hypemarks founders](/images/2018-09-20/hypemarks.jpg) 
 
-![tint_sampler-22.jpg](https://draftin.com:443/images/61198?token=L8vsi0M4i5kKh0DQbZbyJyBN0_eqsaP-LAWwyGvBrIdMhUZ9Putoh3mRHlwIuDmhGykB_LqGmhCrBD9zmJXLQa4) 
+![Team TINT](/images/2018-09-20/team1.jpg) 
 
-![tint_sampler-65.jpg](https://draftin.com:443/images/61199?token=To6jWiMsQXP_KhkqMWEa39tGfCHYPaCBGLJm9YdFgsyrX1CGRnM5MRmWQHjOrHFX5_apH8W__3BrjyFB1VrWqMA) 
+![Team TINT](/images/2018-09-20/team2.jpg) 
 
-![12301233_1518934545092062_1019128162_n.jpg](https://draftin.com:443/images/62437?token=U8zjrpHGYz1ev8HZBZq1P9ZGHJIQxbUzZZD_KSxJKEy7SQtDX0PI5xkRcPEFO89cPfu8rtbBaHre0j954MjJjpo) 
+![Team TINT](/images/2018-09-20/team3.jpg) 
 
-![15538118_1379963122037023_5620325548493373440_n.jpg](https://draftin.com:443/images/62438?token=-0BW29rRdxGt3rCNKrteYHKw-rez9ss9uPVU7IBvoeynDnODvf7BEfIqRGg0wCXgdcF8TBHp8xS2gVwuzHMzPGQ) 
+![Team TINT](/images/2018-09-20/team4.jpg) 
 
-![24327370_131809134163383_6803295425987084288_n.jpg](https://draftin.com:443/images/62439?token=FeaQNcqIMHcXZs0aMHmEsJ7E7sn1yFrDoeP6HjfzWaDqvbkxMbGkxGkImsMpj4OQIKUCEAkBoEvhWMyTInCOyXU) 
+![Team TINT](/images/2018-09-20/team5.jpg) 
 
 **The TINT Team** - I've been lucky enough to work with more than 60 teammates while at this company. Each brought their unique skills to the table to help us advance the company to this exit. I'm going to miss being surrounded and inspired by such a talented team. I've absorbed so much in the experience of working together, and I have also set wildly higher bars for performance in every degree, whether that's programming, design, sales, or support. Can they code as well as Dan? Sell as well as Kelly? Or organize as well as Jess? These are questions I'll be asking myself in my future roles. The journey has been tumultuous, but I hope that y'all were able to grow from the experience too. For the continuing team, the gratitude extends into the future. The brand that we've worked so hard to create now rests with you.
 
-![Blue Apron](https://draftin.com:443/images/62434?token=ndzWfCe0q-Wl91GByCJGOrnFeMOQQQa6Qgj5tsARid_lljNfv-J-mc5BuV2PjWQ7oAEjPWjvzSCmMPMLael02c8) 
+![Blue Apron](/images/2018-09-20/blue_apron.jpg) 
 
 **Our Customers** - Where would this venture be without our customers? I have my personal favorites. Greg from Mambo Media, thank you for being willing to Gchat late at night and give us product feedback in our early days. Nasdaq for putting TINT on the Times Square jumbotron on our team trip to New York. The Sakura of America team for the free boxes of Pigma Microns that powered all of my analog writing at TINT. Kayla at Blue Apron for always being down for a product feedback call. Purdue University, I never thought the university I grew up next to would end up being a customer! And Bob Harrington and the Orange Department at Specialty Produce for being our biggest customer champions.
 
-![IMG_1402 (1).JPG](https://draftin.com:443/images/62436?token=yBx1JVrRLXrQRs32VkZ7O9dESnnvfoUVmIBR0_RkFGOHIEgOPyTdLToLPFriukpuPZkdCP4xB-lx8kuaKCxCloY) 
+![Monica](/images/2018-09-20/monica.jpg)
 
 **Monica** - Thanks for being the behind the scenes "Director of HR" when it came to the plethora of people challenges I faced at TINT. You always have a thoughtful perspective that reflects your ability to consider everyone's needs and wants. I am very lucky to have met such a smart peach.
 
-![Pic of Team TINT in front of Idealab](https://draftin.com:443/images/61195?token=2VXKJJV4awtuuYTo_ZVcuSQODbF1-8mLN9X7j2RTcSUq40EFYRNioVOzpzUxtnzjLVu2HLFdtMPzbvlIquS3pH8) 
+![Team TINT in front of Idealab](/images/2018-09-20/idealab.jpg) 
 
 **Idealab/StartEngine** - Thank you for believing in us from the very beginning. We really didn't know what we were doing back then, but you helped us get off the ground and we wouldn't be here without you.
 
-![Picture of Zen](https://draftin.com:443/images/61192?token=uEQAX2fTmQGwplg51_8hPBeAaPV-bg5RuVNd0XLgmpv9Olh0JyZI2E8fEhi-uT6wgsJf1kq-3QP56NeRtw6CjwU) 
+![Zen at TINT](/images/2018-09-20/zen.jpg) 
 
 **Zen** - You deserve a special shoutout for being our very first employee and for the inspiration you brought to our team. I still follow your mantra of "motion inspires emotion", and attribute our initial success to your insistence that we switch all of our passwords to "100kMRR". I don't know why we stopped doing that.
 
-![Gokce and Prannay at Yahoo](https://draftin.com:443/images/61191?token=FSnwgr2fST1vGJfo2i2qGSvxqdljKx8wC1yNLiVuNvCTXD_NQl26Ceuat4MkDM5TcKRQFzYPkV8jdYMW1pUNOwI) 
-
+![Gokce and Prannay at Yahoo](/images/2018-09-20/gokce_prannay.jpg) 
 **Gokce and Prannay** - Thanks for being my mentors during my Yahoo! internship, and teaching me that "There is no company, only a team". The technical skills I learned from you guys were what gave me the confidence to start my own thing. I even got to work on an improvement to Flickr at a hackathon! That was a great summer.
 
-![Screenshot of Daily Brink](https://draftin.com:443/images/61193?token=RsWTBm2Lqs7vWtRzy_wVyVRwWIwtXBW4tZe0VRjLJpYHk3E7P1abVGmfeLZTnVoR8xjO1PKa4EMRKFX2WfPOv7s) 
+![Screenshot of Daily Brink](/images/2018-09-20/dailybrink.png) 
 
 **Gary, Jeremy, Dani** - Thanks for bringing me on as a "webmaster" for my first technical project of any merit. Daily Brink was the project that got the attention of my eventual manager at Yahoo!. Looking back, it's pretty impressive how much content we put together. 
 
@@ -169,4 +211,4 @@ With \#tintlove,
 
 - Ryo
 
-![Cofounder photo](https://draftin.com:443/images/61196?token=anH02wtaZZtvgxp3AjoYwakBpGBAly_olcWoR5XgVWJrYzJZorzaIqtn51yX4_pkatNkUZfdWOZQNAPoFJd0fzM)
+![Cofounder photo](/images/2018-09-20/cofounders.jpg)
