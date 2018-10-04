@@ -19,7 +19,7 @@ I wholeheartedly believe this is true. But, this post isn't about that. It's abo
 
 ## Company Timeline
 
-We started this journey in 2011. Raised $370k in 2012. Pivoted and launched TINT in 2013. Hit break-even in 5 months. Bootstrapped it to $5M ARR with 30 people. Sold it to Filestack in 2018. What happenned in between? Here's a company timeline:
+We started this journey in 2011. Raised $370k in 2012. Pivoted and launched TINT in 2013. Hit break-even in 5 months. Bootstrapped it to $5M ARR with 30 people. Sold it to Filestack in 2018. What happened in between? Here's a company timeline:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aXQd_desG8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ As expected with our first company, we succeeded at a couple things, failed at m
 
 ### No Playbooks
 
-I've read countless startup books, blog articles, podcasts, videos, HN comment threads, slideshares and the biggest lesson I've learned from putting these resources into action is that it's rare to find a panacea, "golden rule", or even a shortcut. It's counterintutive that this is my first point because below I basically go into my own schpeel about what you're supposed to do, but I've found that every hard situation is unique in is difficulty, and there are no easy playbooks or advice to follow when you feel like you need it the most. Tim put it well when I talked to him about this. "I don't ask for advice anymore. I ask for someone's experience and figure out what's relevant for me."
+I've read countless startup books, blog articles, podcasts, videos, HN comment threads, slideshares and the biggest lesson I've learned from putting these resources into action is that it's rare to find a panacea, "golden rule", or even a shortcut. It's counterintutive that this is my first point because below I basically go into my own spiel about what you're supposed to do, but I've found that every hard situation is unique in is difficulty, and there are no easy playbooks or advice to follow when you feel like you need it the most. Tim put it well when I talked to him about this. "I don't ask for advice anymore. I ask for someone's experience and figure out what's relevant for me."
 
 ### Growth Hacking and SEO
 
@@ -87,7 +87,7 @@ Being a founder is lonely because of both the pressure to exude success and the 
 
 ### Good Management
 
-For a period of time before 2016, we thought Holocracy, flat structures, and manager-less environments were superior to more traditional org structures. We quickly learned that there's a reason why people have been doing things a certain way when it comes to organizing people. I'm sure more wealthy organizations that can buy more talent to make this work, but for TINT, a bootstrapped startup consisting entirely of inexperienced millenials, it became inefficient fast. 
+For a period of time before 2016, we thought Holocracy, flat structures, and manager-less environments were superior to more traditional org structures. We quickly learned that there's a reason why people have been doing things a certain way when it comes to organizing people. I'm sure more wealthy organizations can buy more talent to make this work, but for TINT, a bootstrapped startup consisting entirely of inexperienced millenials, it became inefficient fast. 
 
 ### One person can change everything, but everyone should be replaceable
 
@@ -95,7 +95,7 @@ The usual saying is "everyone is replaceable". But there really are certain spec
 
 ### Don't sign a 4 year lease on the basis of a growth projection
 
-This one seems dumb, but I had to put it in here because it's one of our most painful lessons. In 2015 we were rapidly growing, and projecting our rapid growth into the future, we saw that we would easily have the budget for a much larger office. At the time, we justified our move by saying we would be more productive as a team with a better space, but looking back, a 4-year committment was an unnecessary committment that caused us to depend financially on a growth projection that never materialized. Not making that mistake again!
+This one seems dumb, but I had to put it in here because it's one of our most painful lessons. In 2015 we were rapidly growing, and projecting our rapid growth into the future, we saw that we would easily have the budget for a much larger office. At the time, we justified our move by saying we would be more productive as a team with a better space, but looking back, a 4-year commitment was an unnecessary commitment that caused us to depend financially on a growth projection that never materialized. Not making that mistake again!
 
 ### Special early-company things
 
@@ -130,9 +130,9 @@ When it came time to choose a major for college, I took my dad's advice: "If you
 
 Junior year, I started to have second thoughts about going into medicine. My doubts stemmed mainly from how stark the difference was between the attitude of students in CS vs Pre-med. I remembered my first Pre-med "study session", and being surprised that it ended up being a "copy session" where most of the students were looking for another student's homework to copy. Afterward, I had the crappy feeling of being used. Another negative experience that comes to mind is how effed up I felt about the Pre-med honors society really just being a o-chem test-bank society.
 
-The experience on the CS side was different. We worked on team projects where people genuinely worked together. So I figured, if these are the kind of people I'm going to work with for the rest of my life, I'll take the chill ones. I dropped Pre-med and switched majors to focus on CS full-time.
+The experience on the CS side was different. We worked on team projects where for the most part people worked together to solve problems collaboratively. So I figured, if these are the kind of people I'm going to work with for the rest of my life, I'll take the chill ones. I dropped Pre-med and switched majors to focus on CS full-time.
 
-After switching majors, that's when I started reading Hacker News more and learning more about the startup scene.
+After switching majors, that's when I first discovered [Hacker News](https://news.ycombinator.com/) and started learning more about the startup scene.
 
 ## The Start of Something
 
@@ -172,7 +172,7 @@ There is just too much gratitude to express.
 
 ![Team TINT](/images/2018-09-20/team5.jpg) 
 
-**The TINT Team** - I've been lucky enough to work with more than 60 teammates while at this company. Each brought their unique skills to the table to help us advance the company to this exit. I'm going to miss being surrounded and inspired by such a talented team. I've absorbed so much in the experience of working together, and I have also set wildly higher bars for performance in every degree, whether that's programming, design, sales, or support. Can they code as well as Dan? Sell as well as Kelly? Or organize as well as Jess? These are questions I'll be asking myself in my future roles. The journey has been tumultuous, but I hope that y'all were able to grow from the experience too. For the continuing team, the gratitude extends into the future. The brand that we've worked so hard to create now rests with you.
+**The TINT Team** - I've been lucky enough to work with more than 60 teammates while at this company. Each brought their unique skills to the table to help us advance the company to this exit. I'm going to miss being surrounded and inspired by such a talented team. I've absorbed so much in the experience of working together, and I have also set wildly higher bars for performance in every degree, whether that's programming, design, sales, or support. Can they code as well as Dan? Ship as well as Brett? Sell as well as Kelly? Or organize as well as Jess? These are questions I'll be asking myself in my future roles. The journey has been tumultuous, but I hope that y'all were able to grow from the experience too. For the continuing team, the gratitude extends into the future. The brand that we've worked so hard to create now rests with you.
 
 ![Blue Apron](/images/2018-09-20/blue_apron.jpg) 
 
