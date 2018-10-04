@@ -197,7 +197,7 @@ There is just too much gratitude to express.
 
 **Gary, Jeremy, Dani** - Thanks for bringing me on as a "webmaster" for my first technical project of any merit. Daily Brink was the project that got the attention of my eventual manager at Yahoo!. Looking back, it's pretty impressive how much content we put together. 
 
-# What's Next?
+## What's Next?
 
 There are a couple of mantras I've followed through the TINT journey that I plan on applying after the 90 day transition period:
 
