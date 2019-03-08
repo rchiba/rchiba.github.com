@@ -3,6 +3,7 @@ layout: post
 title: Seven Habits of Highly Effective Startup People
 tags:
 - Startups
+- professional
 status: publish
 type: post
 published: false

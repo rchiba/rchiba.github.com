@@ -12,34 +12,81 @@ layout: default
 		background-color: #e5e5e5;
 		-webkit-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
 		-moz-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
-		box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
+		box-shadow: 0px 2px 4px rgba(126, 142, 177, 0.12);
 	}
+  .navbar-link{
+    display:none;
+  }
+  a.index-header:hover{
+    text-decoration: none;
+  }
+  .index-header div{
+    margin-bottom: 25px;
+    box-shadow: 0 3px 6px rgba(0,0,0,.2);
+    color: white;
+    padding: 13px 15px;
+    margin-top: 70px;
+    border-radius:3px;
+    transition: all 0.15s ease;
+  }
+  .index-header div:hover{
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.46);
+  }
+  .index-header h2{
+    margin-top: 0;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 0;
+  }
+  .bg-color-1{
+    background-color: #102B54;
+  }
+  .bg-color-2{
+    background-color: #123059;
+  }
+  .bg-color-3{
+    background-color: #12566D;
+  }
+  .bg-color-4{
+    background-color: #0E6C8E;
+  }
+  .bg-color-5{
+    background-color: #0C8DAD;
+  }
+  .bg-color-6{
+    background-color: #0EACD3;
+  }
 </style>
 
 <div class="row">
-	<div class="span8 offset2">
-		<div style="padding:15px">
-		{% for page in paginator.posts %}
-			{% include post-template.html %}
-		{% endfor %}
-		</div>
-		<!-- Pagination links -->
-		<div class="pagination">
-			{% if paginator.previous_page == 1 %}
-			<a href="/">Previous</a>
-			{% elsif paginator.previous_page %}
-			<a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
-			{% else %}
-			<span class="previous">Previous</span>
-			{% endif %}
-			<span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
-			{% if paginator.next_page %}
-			<a href="/page{{paginator.next_page}}" class="next ">Next</a>
-			{% else %}
-			<span class="next ">Next</span>
-			{% endif %}
-			or, <a href="/archive.html">Explore Archive</a>
-		</div>
+	<div class="span4">
+		<a href="/personal" class="index-header"><div class="bg-color-1"><h2>personal</h2></div></a>
+    <div>Where write about my hobbies like cooking and biking, and what's on my mind outside of work.</div>
 	</div>
+  <div class="span4">
+    <a href="/about" class="index-header"><div class="bg-color-2"><h2>about</h2></div></a>
+    <div>Hi, I'm Ryo. I'm an entrepreneur, SEO, front-end developer, and aspiring painter. Learn more...</div>
+  </div>
+  <div class="span4">
+    <a href="/professional" class="index-header"><div class="bg-color-3"><h2>professional</h2></div></a>
+    <div>Where write about code, marketing, business.</div>
+  </div>
 </div>
+<div class="row">
+  <div class="span4">
+    <a href="/art" class="index-header"><div class="bg-color-4"><h2>art</h2></div></a>
+    <div>I'm teaching myself to draw and paint, and these are the results!</div>
+  </div>
+  <div class="span4">
+    <a href="/projects" class="index-header"><div class="bg-color-5"><h2>projects</h2></div></a>
+    <div>Where I go more in-depth on my bigger projects.</div>
+  </div>
+  <div class="span4">
+    <a href="/videos" class="index-header"><div class="bg-color-6"><h2>videos</h2></div></a>
+    <div>Videos of me from work and outside of work throughout the years.</div>
+  </div>
+</div>  
+<div class="row" style="height:80px;"></div>
 

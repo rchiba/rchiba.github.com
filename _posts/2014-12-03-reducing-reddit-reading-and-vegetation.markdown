@@ -4,6 +4,7 @@ title: How I reduced my reddit consumption
 description: How I reduced my reddit consumption as my monthly self improvement goal.
 tags:
 - self-improvement
+- personal
 status: publish
 type: post
 published: true

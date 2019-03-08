@@ -4,6 +4,7 @@ title: How To Create an Apple Developer Account Anonymously
 description: Register an iPhone App under a pseudonym.
 tags:
 - hack
+- professional
 status: publish
 type: post
 published: true

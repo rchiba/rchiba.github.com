@@ -4,6 +4,7 @@ title: Writing a Better Blog Post, an @Tint Case Study
 description: Advice and Tips for being a better blogger, improving blog content, and increasing traffic. We analyzed our own posts to see what worked and what didn't.
 tags:
 - writing
+- professional
 status: publish
 type: post
 published: true

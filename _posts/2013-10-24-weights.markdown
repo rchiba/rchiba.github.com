@@ -4,6 +4,7 @@ title: Weight
 description: A short description of the past 4 months of work in the gym.s
 tags:
 - weights
+- personal
 status: publish
 type: post
 published: true

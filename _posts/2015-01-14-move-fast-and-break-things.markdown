@@ -4,6 +4,7 @@ title: "Move Fast and (actually) Break Things"
 description: How to build teams that aren't afraid to fail
 tags:
 - startups
+- professional
 status: publish
 type: post
 published: true

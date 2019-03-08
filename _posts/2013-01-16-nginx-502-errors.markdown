@@ -3,6 +3,7 @@ layout: post
 title: Nginx 502 Gateway Errors
 tags:
 - Writing
+- professional
 status: publish
 type: post
 published: true

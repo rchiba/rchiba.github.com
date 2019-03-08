@@ -5,6 +5,7 @@ description: How much is too little? Learn how to figure out if your startup sal
 tags:
 - startup
 - culture
+- professional
 status: publish
 type: post
 published: true

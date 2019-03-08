@@ -3,6 +3,7 @@ layout: post
 title: Why ramen?
 tags:
 - Food
+- personal
 status: publish
 type: post
 published: false

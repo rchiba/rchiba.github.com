@@ -3,6 +3,7 @@ layout: post
 title: An open letter to tech workers of SF
 tags:
 - life
+- personal
 status: publish
 type: post
 published: true

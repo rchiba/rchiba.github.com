@@ -3,7 +3,7 @@ layout: post
 title: SF Selenium Meetup Talk
 description: A talk I gave on Dec 16, 2015 for the "White Lightning" talks for the SF Selenium Meetup. These slides describe the tips and techniques we used to get a green selenium build for our startup of 30 people. 
 tags:
-- selenium
+- professional
 - software
 status: publish
 type: post

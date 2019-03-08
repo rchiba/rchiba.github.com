@@ -3,7 +3,7 @@ layout: post
 title: Generate Leads with a Free Product
 description: How to use a free product to generate emails for your marketing.
 tags:
-- marketing
+- professional
 status: publish
 type: post
 published: true

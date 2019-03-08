@@ -3,6 +3,7 @@ layout: post
 title: Tint Progress
 tags:
 - Code
+- personal
 status: publish
 type: post
 published: true

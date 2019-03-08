@@ -3,6 +3,7 @@ layout: post
 title: Using Selenium and ECS to Create Reliable Rendering on Signage Systems
 description: Rendering videos of webpages in the cloud for mall kiosks and other digital signage
 tags:
+- professional
 - code
 status: publish
 type: post

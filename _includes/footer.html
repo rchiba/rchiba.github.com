@@ -2,9 +2,6 @@
 			<div class="span8 offset2 footer">
 				<div class="row">
 					<div class="span8" style="margin-top: 20px; margin-bottom: 30px;">
-						<p>
-							Copyright Ryo Chiba
-						</p>
 						<div>
 							<a class="footer-social-button" target="_blank" href="http://www.instagram.com/rchiba">
 								<i class="icon-instagram"></i> rchiba
@@ -32,12 +29,11 @@
 					.a5b5e4{
 						height: 150px !important;
 					}
-					</style>
-					<script async src="https://d36hc0p18k1aoc.cloudfront.net/pages/a5b5e4.js"></script><div class="a5b5e4" data-id="ryochiba_personal" data-columns="" data-expand="true"    data-infinitescroll="true" data-personalization-id="798439" style="height:500px;width:100%;"></div>
+					</style>`
 				</div>
 				<div class="row">
 					<div class="span8" style="text-align:center; color: #ccc">
-						Powered by <a style="color:#aaa" href="http://pages.github.com/" target="_blank">Github Pages</a> and <a style="color:#aaa" href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+						© 2011–<span class="too-lazy-to-update-year"></span> ryo chiba, powered by <a style="color:#aaa" href="http://pages.github.com/" target="_blank">github pages</a> and <a style="color:#aaa" href="http://jekyllrb.com/" target="_blank">jekyll</a>
 					</div>
 				</div>
 			</div>
@@ -46,5 +42,10 @@
 	</div> <!-- end container -->
 	<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
 	<script src="/assets/js/index.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('.too-lazy-to-update-year').text(new Date().getFullYear());
+    });
+  </script>
 	</body>
 </html>

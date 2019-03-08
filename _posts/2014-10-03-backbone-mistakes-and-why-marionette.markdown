@@ -4,6 +4,7 @@ title: Backbone mistakes we made, and how we solved them with Marionette
 description: Don't make these mistakes we made, improve your codebase by avoiding these backbone pitfalls.
 tags:
 - code
+- professional
 status: publish
 type: post
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: Bicycle Tour - San Francisco to Los Angeles
 description: A description of my 9 day bike tour from SF to LA
 tags:
-- life
+- personal
 status: publish
 type: post
 published: true

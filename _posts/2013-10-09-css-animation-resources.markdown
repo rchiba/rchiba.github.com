@@ -4,6 +4,7 @@ title: CSS Animation Resources
 description: A collection of useful tutorials on css transforms and translations.
 tags:
 - Code
+- professional
 status: publish
 type: post
 published: true

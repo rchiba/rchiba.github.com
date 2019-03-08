@@ -4,6 +4,7 @@ title: Nekozushi Wallpaper
 description: Nekozushi, cat sushi, desktop wallpaper in various sizes.
 tags:
 - cats
+- personal
 status: publish
 type: post
 published: true

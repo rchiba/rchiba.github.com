@@ -3,6 +3,7 @@ layout: post
 title: February Financial Analysis
 tags:
 - Finance
+- personal
 status: publish
 type: post
 published: true
