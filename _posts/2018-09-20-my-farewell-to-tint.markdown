@@ -57,7 +57,7 @@ We started this journey in 2011. Raised $370k in 2012. Pivoted and launched TINT
 
 Looking back on the timeline, it's shocking to me how much has happenned at TINT over the years. The innocence of the early days, the exuberance of early growth, the shock of hitting the plateau, the determination in the face of continuous challenge, and the uncertainty of looking for an exit.
 
-My worldview has changed thanks to all of the madness that comes with operating a small business. Tim has handled more of it than anyone else, but me, Nik, and others on the team have faced it at one point or another. There's a lot of crazy stuff behind the scenes that no-one talks about. Patent trolls. Ex-employee going rogue and stealing customers. Surprise illegal office zoning. Surprise Instagram API changes that break the product. Getting customers (temporarily) blacklisted by Google for mining bitcoin. Layoffs. Lost friends. Burnout.
+My worldview has changed thanks to all of the madness that comes with operating a small business. Tim has handled more of it than anyone else, but me, Nik, and others on the team have faced it at one point or another. There's a lot of crazy stuff behind the scenes that no-one talks about. Patent trolls. Ex-employee going rogue and stealing customers. Surprise illegal office zoning. Surprise Instagram API changes that break the product. Layoffs. Lost friends. Burnout.
 
 But the team was able to find a way to handle each of those situations. As time has passed, the sharp pain of these situations has mellowed into experience. And the experience is why I joined this team, so ultimately I am grateful for the opportunity to learn valuable lessons.
 
