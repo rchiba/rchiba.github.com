@@ -4,6 +4,7 @@ title: Building Responsive Widgets for Mobile
 description: A getting started guide for building mobile responsive website components, aka widgets. Tips and tricks.
 tags:
 - code
+- professional
 status: publish
 type: post
 published: true

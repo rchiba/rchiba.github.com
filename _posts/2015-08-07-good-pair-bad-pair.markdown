@@ -4,6 +4,7 @@ title: Good Pair Bad Pair
 description: A guide to better pair programming
 tags:
 - code
+- professional
 status: publish
 type: post
 published: true

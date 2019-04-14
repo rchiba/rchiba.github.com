@@ -3,7 +3,7 @@ layout: post
 title: My Experiences with Professional Coaching
 description: How I was able to work with a coach to tackle a number of challenges at work
 tags:
-- work
+- professional
 status: publish
 type: post
 published: true

@@ -4,6 +4,7 @@ title: Puppet - Portable Server Configurations, yay!
 description: A collection of resources for puppet
 tags:
 - code
+- professional
 status: publish
 type: post
 published: true

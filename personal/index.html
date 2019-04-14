@@ -1,0 +1,57 @@
+---
+title: Ryo Chiba - Personal Blog
+description: A collection of wonderful things.
+layout: default
+pagination: 
+  enabled: true
+  tag: personal
+---
+
+
+<style>
+  .navbar-blog{
+    color: #555;
+    text-decoration: none;
+    background-color: #e5e5e5;
+    -webkit-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
+    -moz-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
+    box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
+  }
+</style>
+
+<div class="row" style="margin-top:30px;">
+  <div class="span8">
+    <div style="padding:15px; padding-top:0;">
+      <div class="blog-header">
+        <h1>Ryo's Personal Blog</h1>
+        <h2>What's on my mind outside of work.</h2>
+      </div>
+      {% for page in paginator.posts %}
+        {% include post-template.html %}
+      {% endfor %}
+    </div>
+  </div>
+  <div class="span4">
+    {% include sidebar.html tag="personal" %}
+  </div>
+</div>
+<div class="row">
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Previous</a>
+    {% elsif paginator.previous_page %}
+    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
+    {% else %}
+    <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+    {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
+    {% else %}
+    <span class="next ">Next</span>
+    {% endif %}
+    or, <a href="/archive">Explore Archive</a>
+  </div>
+</div>
+

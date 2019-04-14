@@ -3,7 +3,7 @@ layout: post
 title: Startup Promotions and Equity Grants
 description: Learn how we figured out how to promote people within our SAAS company at TINT
 tags:
-- startups
+- professional
 status: publish
 type: post
 published: true

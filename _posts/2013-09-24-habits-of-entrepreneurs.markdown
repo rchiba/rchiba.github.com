@@ -4,6 +4,7 @@ title: 7 Habits of Highly Effective Entrepreneurs
 description: Here are my 7 Habits of Highly Effective Entrepreneurs/Startups, as learned from creating my startup Tint
 tags:
 - life
+- professional
 status: publish
 type: post
 published: true

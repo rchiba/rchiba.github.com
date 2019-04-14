@@ -4,9 +4,10 @@ title: Chaco Canyon 2013
 description: Pauline and I go camping in Chaco Culture National Park.
 tags:
 - camping
+- personal
 status: publish
 type: post
-published: true
+published: false
 meta:
   _edit_last: '1'
 ---

@@ -4,6 +4,7 @@ title: The Mythical Man Month
 description: Notes on how to improve software engineering processes.
 tags:
 - code
+- professional
 status: publish
 type: post
 published: true

@@ -1,5 +1,14 @@
 ---
+layout: post
+title: How to Recruit Engineers in San Francisco
+tags:
+- life
+- professional
+status: publish
+type: post
 published: true
+meta:
+  _edit_last: '1'
 ---
 
 ![small teams looking for more people](https://s3.amazonaws.com/uploads.hipchat.com/38181/267094/nUV4GxfOgNXeetV/IMGP2863.jpg)

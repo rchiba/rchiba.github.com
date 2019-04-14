@@ -1,19 +1,22 @@
-body, h2, h3, h4, h5{
-	font-family: "kepler-std", Georgia, Times, serif;
-	color: #333333;
-	font-weight:300;
+body{
+  color: #333333;
+  font-weight:300;
+  font-family: 'Noto Serif', Serif;
+}
+h2, h3, h4, h5, h6{
+	font-family: 'Varela Round', Sans-Serif;
 }
 h1{
 	color: #444444;
-	font-family: "acta-display", Georgia, Times, serif;
+	font-family: 'Varela Round', Sans-Serif;
 	font-weight: 400;
 	letter-spacing: -1px;
-	text-align:center;
+	text-align:left;
 }
 h2, h3{
 	line-height: 1;
 	margin-top: 50px;
-	margin-bottom: 0;
+	margin-bottom: 20px;
 	text-align: left !important;
 }
 p, #archive li{
@@ -32,7 +35,7 @@ video{
 #archive li{
 	margin:0;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 }
 #archive ul{
 	margin:0;
@@ -41,7 +44,7 @@ article{
 	border-bottom:1px solid #eee;
 }
 .post-title{
-	font-size: 62px;
+	font-size: 33px;
 	line-height: 1;
 	margin-top:40px;
 }
@@ -49,7 +52,7 @@ article{
 	text-decoration: none;
 }
 .post-date{
-	text-align:center;
+	text-align:left;
 	color: #999;
 	font-size: 1em;
 	font-style: italic;
@@ -62,6 +65,7 @@ article{
 	width: 100%;
 	left: 0;
 	text-align: center;
+  z-index:2;
 }
 
 .navbar .container{
@@ -70,7 +74,7 @@ article{
 .navbar .nav{
 	display: inline-block;
 	float: none;
-	font-family: "acta-display", Georgia, Times, serif;
+	font-family: 'Varela Round', Sans-Serif;
 }
 .navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner{
 	box-shadow: none;
@@ -79,13 +83,13 @@ article{
 	background-color: #FFF;
 }
 .navbar .nav > li {
-	width:90px;
+	width:110px;
 }
 .navbar .nav > li.navbar-title{
 	width: auto;
 	font-size: 24px;
 	line-height: 1;
-	padding: 8px 25px;
+	padding: 0;
 }
 
 @media only screen 
@@ -151,4 +155,23 @@ article ul ul{
 
 article li{
 	margin: 1em auto;
+}
+.blog-header{
+  padding-bottom: 25px;
+  border-bottom: 1px solid #ccc;
+}
+.blog-header h2{
+  font-size: 20px;
+  margin-top: 0;
+  color: #8c8c8c;
+}
+.sidebar{
+  margin-top:12px;
+}
+.sidebar h3{
+  margin-top:0;
+}
+.sidebar li{
+  font-size: 18px;
+  margin-top: 12px;
 }

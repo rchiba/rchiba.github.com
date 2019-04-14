@@ -4,9 +4,10 @@ title: Lassen National Park
 description: Pauline and I recently took a weekend trip to go camping in Lassen National Park.
 tags:
 - Camping
+- personal
 status: publish
 type: post
-published: true
+published: false
 meta:
   _edit_last: '1'
 ---

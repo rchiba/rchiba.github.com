@@ -4,6 +4,7 @@ title: How Tint Uses Trello
 tags:
 - Code
 - Trello
+- professional
 status: publish
 type: post
 published: true

@@ -4,6 +4,7 @@ title: How to Find a Technical Cofounder
 description: A Primer on how to find a technical co-founder when writing an email to a university CS Listserv
 tags:
 - advice
+- professional
 status: publish
 type: post
 published: true

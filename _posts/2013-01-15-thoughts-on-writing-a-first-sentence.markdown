@@ -3,6 +3,7 @@ layout: post
 title: How to write an opening sentence
 tags:
 - Writing
+- personal
 status: publish
 type: post
 published: true

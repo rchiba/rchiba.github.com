@@ -1,0 +1,11 @@
+<div class="sidebar">
+  <h3>More Posts</h3>
+  <ul>
+    {% for post in site.posts %}
+        {% if post.tags contains include.tag %}
+           <li><a href="{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} - {{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    <li><a href="/archive">Explore Archive</a></li>
+  </ul>
+</div>

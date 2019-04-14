@@ -3,7 +3,7 @@ layout: post
 title: My Farewell to TINT
 description: If you're connected to me or anyone else at TINT, you might know that we've been looking for someone to take the keys to our company.
 tags:
-- work
+- professional
 status: publish
 type: post
 published: true

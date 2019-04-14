@@ -3,6 +3,7 @@ layout: post
 title: Inspiration
 tags:
 - Writing
+- personal
 status: publish
 type: post
 published: true

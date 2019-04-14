@@ -3,6 +3,7 @@ layout: post
 title: Sukiyaki Udon
 tags:
 - Food
+- personal
 status: publish
 type: post
 published: true

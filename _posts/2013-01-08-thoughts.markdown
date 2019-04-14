@@ -3,6 +3,7 @@ layout: post
 title: Startups Fears
 tags:
 - Writing
+- personal
 status: private
 type: post
 published: false

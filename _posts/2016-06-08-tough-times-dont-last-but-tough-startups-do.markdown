@@ -3,7 +3,7 @@ layout: post
 title: Tough Times Don’t Last But Tough Startups Do
 description: I closed my eyes and counted to three while in an empty and dark conference room. I told myself that I was ready to tell my friend and coworker that I would be laying him off.
 tags:
-- culture
+- professional
 status: publish
 type: post
 published: true

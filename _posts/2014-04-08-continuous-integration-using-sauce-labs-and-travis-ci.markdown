@@ -5,6 +5,7 @@ description: Learn how to setup a continuous integration system using sauce and 
 tags:
 - code
 - devops
+- professional
 status: publish
 type: post
 published: true

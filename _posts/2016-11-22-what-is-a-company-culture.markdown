@@ -3,7 +3,7 @@ layout: post
 title: What is a company culture?
 description: Or more importantly, what is MY company culture? That's a harder question.
 tags:
-- work
+- professional
 status: publish
 type: post
 published: true

@@ -4,6 +4,7 @@ title: 2014 Financial Year in Review
 description: 2014 as told by Ryo's credit card
 tags:
 - finance
+- personal
 status: publish
 type: post
 published: true

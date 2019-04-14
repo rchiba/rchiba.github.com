@@ -4,6 +4,7 @@ title: Empathy is Underrated
 description: No one cares how much you know, until they know how much you care - Theodore Roosevelt
 tags:
 - methodology
+- professional
 status: publish
 type: post
 published: true
