@@ -11,9 +11,9 @@ meta:
   _edit_last: '1'
 ---
 
-3 years ago I wrote a [2014 Financial Year in Review](http://ryochiba.com/2015/01/04/financial-snapshot.html) that documented my spending habits. Since then, my life has changed a lot. I live in a nice 1 bedroom in the Richmond instead of in a converted closet-room in the Tenderloin. I travel more to see family and friends. And I spend more freely now (more weekend trips, entertainment, and hobbies).
+3 years ago I wrote a [2014 Financial Year in Review](http://ryochiba.com/2015/01/04/financial-snapshot.html) that documented my spending habits. Since then, my life has changed a lot. I live in a nice 1 bedroom in the edges of SF instead of in a converted closet-room in the Tenderloin. I travel more to see family and friends. And I spend more freely now (more weekend trips, entertainment, and hobbies).
 
-This year has also been a year of change for me. I've had a windfall from the acquisition of TINT (which I'm excluding from this analysis). I've gotten engaged too, which impacted my spending in obvious ways. Lots more stuff going on in my life, and I'm frequently feeling like I'm spending too much. How does it actually stack up?
+This year has also been a year of change for me. I've had a windfall from the acquisition of TINT (which I'm excluding from this analysis). Lots more stuff going on in my life, and I'm frequently feeling like I'm spending too much. How does it actually stack up?
 
 Data set: [Transactions](http://ryochiba.com/files/2018-transactions.xlsx)
 
@@ -27,8 +27,6 @@ Data set: [Transactions](http://ryochiba.com/files/2018-transactions.xlsx)
 * Restaurants: $5,876
 * Groceries: $1,849
 * Big ticket items:
-  * Hong Kong / Sri Lanka Trip - ~$2,300
-  * Engagement Ring - $2,157
   * Flight to Japan - $1,152
   * Flight to Italy - $1,049
   * Amazon: $1,049
