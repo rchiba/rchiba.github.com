@@ -155,6 +155,7 @@ article ul ul{
 
 article li{
 	margin: 1em auto;
+  line-height:32px;
 }
 .blog-header{
   padding-bottom: 25px;
