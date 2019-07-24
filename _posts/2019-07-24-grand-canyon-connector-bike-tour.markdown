@@ -11,9 +11,11 @@ meta:
   _edit_last: '1'
 ---
 
+![grand canyon connector bike tour](/images/2019-07-24/grand_canyon_connector.jpg)
+
 ## Introduction
 
-Right after Stephen and I made it to LA from SF on our last ride, we talked about what our next tour would be. He brought up the American Southwest. 
+Right after Stephen and I finished our [Pacific Coast bike tour from San Francisco to Los Angeles](2017/09/09/bicycle-tour-sf-to-la.html), we talked about what our next tour would be. He brought up the American Southwest. 
 
 Unfortunately, work and life got busy for the both of us, and as time passed I thought our commitment would sadly fade away like most grand plans made between friends in the moment. But I was wrong. Two years later, I’m on a flight to a small town in Utah with an itinerary and a helmet.
 
