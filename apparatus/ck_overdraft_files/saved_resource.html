@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)https://tags.creditkarma.com/advice/i/what-is-an-overdraft-fee/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title></title>
+    <meta name="robots" content="noindex, nofollow">
+    <script type="text/javascript" async="" charset="utf-8" id="utag_119" src="./up_loader.1.1.0.js"></script><script type="text/javascript" async="" src="./f.txt" nonce=""></script><script src="./1512805815657072" async=""></script><script type="text/javascript" async="" charset="utf-8" id="utag_53" src="./fbevents.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_135" src="./js"></script><script src="./utag.js" type="text/javascript" async=""></script><script src="./bundle.min.js" nonce="" crossorigin="anonymous"></script>
+    <script type="text/javascript" nonce="">
+        var validDomains = "https://www.creditkarma.com,https://www.creditkarma.ca,https://creditkarma.ca,https://accounts.creditkarma.com,https://tax.creditkarma.com";
+
+        try {
+            Sentry.init({
+                dsn: "https://e07569c9713542148f9c14129322aae1@sentry.io/1489191",
+                release: "tags-iframe-service@2.13.0",
+                defaultIntegrations: false
+            });
+        } catch(err) {
+            console.error('Unable to initialize Sentry for tealium tags service');
+        }
+
+        window.addEventListener('message', function(e) {
+            try {
+                if (!(validDomains.indexOf(e.origin) > -1)) {
+                    return;
+                }
+
+                var utagType = e.data.IS_PRODUCTION ? 'prod' : 'dev';
+
+                if (typeof e.data.utag !== 'undefined') {
+                    window.TRACE_ID = e.data.TRACE_ID;
+                    window.utag_data = e.data.utag;
+                    window.top_url = e.data.top_url;
+
+                    (function(a,b,c,d){
+                        a='//tags.tiqcdn.com/utag/creditkarma/main/' + utagType + '/utag.js'; b=document;c='script';d=b.createElement(c);d.src=a; d.type='text/java'+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a)
+                    })()
+                } else if (typeof e.data.utag_event !== 'undefined' && typeof utag !== 'undefined' && typeof utag.link === 'function') {
+                    // utag.js should be available on the page at this point
+                    // the mapping is already done so send the payload
+                    utag.link(e.data.utag_event);
+                } else if (typeof e.data.utag_view !== 'undefined' && typeof utag !== 'undefined' && typeof utag.view === 'function') {
+                    utag.view(e.data.utag_view);
+                }
+            } catch (err) {
+                Sentry.captureException(err);
+            }
+        });
+    </script>
+<script type="text/javascript" async="" charset="utf-8" id="utag_creditkarma.main_53" src="./utag.53.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_creditkarma.main_102" src="./utag.102.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_creditkarma.main_106" src="./utag.106.js"></script><script type="text/javascript" async="" charset="utf-8" id="utag_creditkarma.main_119" src="./utag.119.js"></script><script src="./f(1).txt" nonce=""></script><script src="./f(2).txt" nonce=""></script><script src="./f(3).txt" nonce=""></script><script src="./f(4).txt" nonce=""></script><script src="./f(5).txt" nonce=""></script><script src="./f(6).txt" nonce=""></script></head>
+<body>
+
+<div id="ttdUniversalPixelTag" style="display: none;"></div></body></html>

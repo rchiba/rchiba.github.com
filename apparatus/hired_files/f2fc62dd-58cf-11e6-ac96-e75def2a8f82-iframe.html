@@ -1,0 +1,64 @@
+
+<!-- saved from url=(0981)https://jsv3.recruitics.com/f2fc62dd-58cf-11e6-ac96-e75def2a8f82-iframe?e=%7B%22viewer%22%3A%7B%22v2_first%22%3Anull%2C%22v2_local%22%3Anull%2C%22v3_first%22%3A%229126d54f297e11e9a8a991f0eb672c8f32f861bf1a8c4fbf826a67b8e3621dc2%22%2C%22v3_local%22%3A%229126d54f297e11e9a8a991f0eb672c8f32f861bf1a8c4fbf826a67b8e3621dc2%22%2C%22v3_param%22%3Anull%7D%2C%22referrer%22%3A%22https%3A%2F%2Fahrefs.com%2Fpositions-explorer%2Ftop-pages%2Fv2%2Fsubdomains%2Fus%2Fall%2Fall%2Fall%2Fall%2Fall%2Fall%2Fall%2F1%2Ftraffic_desc%3Ftarget%3Dhired.com%22%2C%22title%22%3A%22Find%20Data%20Analysts%20Jobs%22%2C%22eventType%22%3A%22pageview%22%2C%22pageType%22%3A%22All%20other%20pages%22%2C%22scriptId%22%3A%22f2fc62dd-58cf-11e6-ac96-e75def2a8f82%22%2C%22cid%22%3A%22957%22%2C%22versionId%22%3A%222e1ea28a-968f-11e9-8326-cb2a55e322e2%22%2C%22jobId%22%3Anull%2C%22uri%22%3A%22https%3A%2F%2Fhired.com%2Fjobs%2Fdata-analyst%22%2C%22hasCustomJs%22%3Atrue%2C%22anonymizeIp%22%3Atrue%2C%22nvp%22%3A%7B%7D%7D -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>IFrame</title></head>
+<body><script>var rx = rx || {};
+rx._ = rx._ || {};
+
+/**
+ *  Logging wrapper. Addresses lack of "console" support in IE9.
+ */
+rx._.log = function(message,a1) {
+    if (window.rx_debug) {
+        window.rx_debug += "INFO: " + message + "\n";
+    } else {
+        window.rx_debug = "INFO: " + message + "\n";
+    }
+    if (false && window.console) {
+        if (typeof a1 == "undefined"){
+            window.console.log(message);
+        } else {
+            window.console.log(message,a1);
+        }
+    }
+}
+
+/**
+ *  Logging wrapper. Addresses lack of "console" support in IE9.
+ */
+rx._.error = function(message,a1) {
+    if (window.rx_debug) {
+        window.rx_debug += "ERROR: " + message + "\n";
+    } else {
+        window.rx_debug = "ERROR: " + message + "\n";
+    }
+    if (false && window.console) {
+        if (typeof a1 == "undefined"){
+            window.console.error(message);
+        } else {
+            window.console.error(message,a1);
+        }
+    }
+};
+
+// ---------------------------------------------------------------------------------------------------------------------
+// SEND EVENT FROM I-FRAME
+// ---------------------------------------------------------------------------------------------------------------------
+rx._.log("Setting up iFrame logic for jsv3.recruitics.com");
+rx._.payload = {"viewer":{"v2_first":null,"v2_local":null,"v3_first":"9126d54f297e11e9a8a991f0eb672c8f32f861bf1a8c4fbf826a67b8e3621dc2","v3_local":"9126d54f297e11e9a8a991f0eb672c8f32f861bf1a8c4fbf826a67b8e3621dc2","v3_param":null},"referrer":"https://ahrefs.com/positions-explorer/top-pages/v2/subdomains/us/all/all/all/all/all/all/all/1/traffic_desc?target=hired.com","title":"Find Data Analysts Jobs","eventType":"pageview","pageType":"All other pages","scriptId":"f2fc62dd-58cf-11e6-ac96-e75def2a8f82","cid":"957","versionId":"2e1ea28a-968f-11e9-8326-cb2a55e322e2","jobId":null,"uri":"https://hired.com/jobs/data-analyst","hasCustomJs":true,"anonymizeIp":true,"nvp":{}};
+rx._.sendPayload = function(fn) {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            fn(xhttp.responseText);
+        }
+    }
+    xhttp.open("POST", "//jsv3.recruitics.com/event.txt", true); // async post to event.txt
+    xhttp.send(JSON.stringify(rx._.payload)); // add the payload and send it
+};
+rx._.handleResponse = function(viewerId){
+    if (window.parent && window.parent.postMessage) {
+        window.parent.postMessage("rx_viewer=" + viewerId, "*");
+    }
+};
+rx._.sendPayload(rx._.handleResponse);</script>
+</body></html>
