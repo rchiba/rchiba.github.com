@@ -1,7 +1,5 @@
 markdown: kramdown
-gems:
-  - jekyll-paginate-v2
-url: "http://ryochiba.com"
+url: "https://ryochiba.com"
 baseurl: ""
 plugins:
   - jekyll-paginate-v2
