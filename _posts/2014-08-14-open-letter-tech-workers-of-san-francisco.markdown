@@ -4,9 +4,9 @@ title: An open letter to tech workers of SF
 tags:
 - life
 - personal
-status: publish
+status: private
 type: post
-published: true
+published: false
 meta:
   _edit_last: '1'
 ---

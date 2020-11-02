@@ -5,9 +5,9 @@ description: A short description of the past 4 months of work in the gym.s
 tags:
 - weights
 - personal
-status: publish
+status: private
 type: post
-published: true
+published: false
 meta:
   _edit_last: '1'
 ---

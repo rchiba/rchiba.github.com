@@ -4,9 +4,9 @@ title: Inspiration
 tags:
 - Writing
 - personal
-status: publish
+status: private
 type: post
-published: true
+published: false
 meta:
   _edit_last: '1'
 ---
