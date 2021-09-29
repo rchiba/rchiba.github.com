@@ -228,6 +228,8 @@ That being said I'd do a few things differently next time to make this more like
 
 Our mistake was that we did not feel comfortable reaching out to these big companies because we felt like we needed more credibility and felt the pressure of needing to send the "perfect" email, so much so that we never took action. It wasn't until we had validation from the inbound deals in hand that we actually started reaching out. This time feeling no pressure, we wrote casually and were surprised to get responses. Of course having a deal in hand was a big a factor in getting these responses, but next time I want to get over imposter syndrome and just do it.
 
+One of the downsides of the sale is that we'll be sunsetting the external product and in 3 months time requiring our existing customers to offboard. We're truly grateful for their support over the years and it's hard to walk away from them. We'll do our best to make the transition as easy as possible, but this will certainly cause additional work for them. 
+
 ## What's next
 
 One of the most exciting parts of the deal with CafeMedia is the chance to make a bigger impact.
