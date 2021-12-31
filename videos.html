@@ -6,18 +6,13 @@ layout: default
 
 <style>
   .navbar-videos{
-    color: #555;
-    text-decoration: none;
-    background-color: #e5e5e5;
-    -webkit-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
-    -moz-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
-    box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
+    font-weight: bold;
   }
   .card{
     width: 100%;
   }
   .card-body{
-    padding:10px 50px;
+    padding:0;
   }
   .card iframe{
     width: 100%;
@@ -25,88 +20,90 @@ layout: default
   }
   .card-title{
     margin-bottom: 10px;
+    font-size: 16px;
   }
   .card-subtitle{
     color: #929292;
+    font-size: 15px;
+    margin-bottom: 10px;
   }
   .card-text{
     margin-top: 10px;
     font-size: 12px;
   }
   h1{
-    text-align: center;
     margin-top: 50px;
   }
 </style>
 <div class="row">
   <div class="span12">
-    <h1>Videos</h1>
+    <h1>videos</h1>
   </div>
 </div>
 <div class="row">
-  <div class="span5 offset1">
-    <div class="card">
+  <div class="col-6">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">What is Topic?</h3>
-        <h6 class="card-subtitle text-muted">2020</h6>
+        <h6 class="card-subtitle">2020</h6>
         <iframe src="https://www.youtube.com/embed/D4tW9IA8zjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p class="card-text">I'm currently working on Topic, a tool to help editors and agencies create better SEO content, faster.</p>
+        <p class="card-text">Topic is a tool to help editors and agencies create better SEO content, faster.</p>
       </div>
     </div>
-    <div class="card">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">A Word from our CTO on TINT Enterprise</h3>
-        <h6 class="card-subtitle text-muted">2017</h6>
+        <h6 class="card-subtitle">2017</h6>
         <iframe src="https://www.youtube.com/embed/9qUdt8oKVG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p class="card-text">Our company sold software to enterprise clients, so we needed a video to let potential customers know that our team could handle their needs. The <a href="https://youtu.be/CnX1gnD2gI4">bloopers</a> are also fun to watch.</p>
+        <p class="card-text">TINT sold software to enterprise clients, so we needed a video to let potential customers know that our team could handle their needs. The <a href="https://youtu.be/CnX1gnD2gI4">bloopers</a> are also fun to watch.</p>
       </div>
     </div>
-    <div class="card">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">SF Selenium Meetup: A startup's selenium journey</h3>
-        <h6 class="card-subtitle text-muted">2015</h6>
+        <h6 class="card-subtitle">2015</h6>
         <iframe src="https://www.youtube.com/embed/Ps9SORiEOO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p class="card-text">When I saw in my inbox that the local QA group was having lighting talks, I signed up to share my experiences with Selenium. While at TINT I was also responsible for the functional test suite, so I spent a lot of time setting it up and keeping it running.</p>
       </div>
     </div>
-    <div class="card">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">Inkscape Tutorial</h3>
-        <h6 class="card-subtitle text-muted">2007</h6>
+        <h6 class="card-subtitle">2007</h6>
         <iframe src="https://www.youtube.com/embed/Pd02Q-54wuQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p class="card-text">In high school, I was a big user of Inkscape, an open source vector graphics program. I spent my time after school teaching other students how to use it, and one day I decided to make a tutorial and post it to YouTube. Years later, almost half a million people have seen me with bleached hair in my family's dining room.</p>
       </div>
     </div>
   </div>
-  <div class="span5">
-    <div class="card">
+  <div class="col-6">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">What is TINT?</h3>
-        <h6 class="card-subtitle text-muted">2018</h6>
+        <h6 class="card-subtitle">2018</h6>
         <iframe src="https://www.youtube.com/embed/oZCl7Z1GDfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p class="card-text">TINT is a user generated content platform that aggregates and displays social media for businesses. I cofounded the company in 2012 and sold it in 2018. Use these links to see how brands like <a href="https://youtu.be/2DZGnWNJO9A" target="_blank">Loews Hotels</a>, <a href="https://youtu.be/puyZuOiHxEU" target="_blank">Purdue University</a>, <a href="https://youtu.be/1NuG02yEmG4" target="_blank">iHeartRadio</a>, <a href="https://youtu.be/neQLs3Z3tR8" target="_blank">BottleRock Music Festival</a>, and <a href="https://youtu.be/kpvrLfD2lOI" target="_blank">Branded Cities</a> use the product.</p>
       </div>
     </div>
-    <div class="card">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">Day in the Life at TINT</h3>
-        <h6 class="card-subtitle text-muted">2017</h6>
+        <h6 class="card-subtitle">2017</h6>
         <iframe src="https://www.youtube.com/embed/KnEWJ4YrFQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p class="card-text">To give job applicants an accurate picture of working at TINT, our team made a series of videos depicting a regular workday from each of our perspectives, using Snapchat Spectacles. This is a snapshot of my regular workday in 2017. And yes, we did work hard, it's just that long stretches of staring at a screen don't make great recruiting fodder ;)</p>
       </div>
     </div>
-    <div class="card">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">TINT Marketing Integrations</h3>
-        <h6 class="card-subtitle text-muted">2017</h6>
+        <h6 class="card-subtitle">2017</h6>
         <iframe src="https://www.youtube.com/embed/zRHdJKXWG9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p class="card-text">In an effort to increase usage of a new feature that our engineering team had released, I created a video.</p>
       </div>
     </div>
-    <div class="card">
+    <div class="video-card">
       <div class="card-body">
         <h3 class="card-title">Anatomy of a Startup</h3>
-        <h6 class="card-subtitle text-muted">2013</h6>
+        <h6 class="card-subtitle">2013</h6>
         <iframe src="https://www.youtube.com/embed/dNEPaWFhAzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p class="card-text">A video that USC did on our startup shortly after we graduated and were working on our company full-time in Pasadena, CA. Regrettably, our own alma mater did not end up adopting our technology as much as rival schools Stanford and Berkeley.</p>
       </div>

@@ -6,16 +6,11 @@ layout: default
 
 
 <style>
-	.navbar-blog{
-		color: #555;
-		text-decoration: none;
-		background-color: #e5e5e5;
-		-webkit-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
-		-moz-box-shadow: inset 0 3px 8px rgba(0,0,0,0.125);
-		box-shadow: 0px 2px 4px rgba(126, 142, 177, 0.12);
-	}
-  .navbar-link{
+  .navbar{
     display:none;
+  }
+  a.index-header{
+    text-decoration: none;
   }
   a.index-header:hover{
     text-decoration: none;
@@ -41,52 +36,212 @@ layout: default
     margin-bottom: 0;
   }
   .bg-color-1{
-    background-color: #102B54;
+    background-color: #0C1D31;
+  }
+  .bg-color-1 i{
+    color: #316191;
   }
   .bg-color-2{
-    background-color: #123059;
+    background-color: #163150;
+  }
+  .bg-color-2 i{
+    color: #427AAE;
   }
   .bg-color-3{
-    background-color: #12566D;
+    background-color: #224871;
+  }
+  .bg-color-3 i{
+    color: #5795C6;
   }
   .bg-color-4{
-    background-color: #0E6C8E;
+    background-color: #316191;
   }
-  .bg-color-5{
-    background-color: #0C8DAD;
+  .bg-color-4 i{
+    color: #70B0D9;
   }
-  .bg-color-6{
-    background-color: #0EACD3;
+
+  .profile-photo img{
+    border-radius: 300px;
+    width: 120px;
+    margin-top: 8px;
+    filter: grayscale(100%);
+  }
+
+  h1{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+
+  .profile p{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .profile-title{
+    font-size:  14px;
+  }
+
+  .profile-title a{
+    color: #1e1e1e;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .profile-title a:hover{
+    color: inherit;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  p.profile-description{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 16px;
+  }
+
+  .homepage-button{
+    display: flex;
+  }
+
+  .homepage-button h2{
+    flex-grow: 1;
+  }
+
+  .homepage-button i{
+    font-size: 25px;
+  }
+
+  a.post-link{
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .post{
+    padding: 30px 22px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 32px;
+    box-shadow: 0 3px 6px rgba(0,0,0,.2);
+    transition: all 0.15s ease;
+    border: 4px solid #306191;
+  }
+
+  .post:hover{
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.46);
+  }
+
+  .post h3{
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 13px;
+    line-height: 1.2;
+  }
+
+  .post p{
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 16px;
+  }
+
+  .post span{
+    text-decoration: underline;
+    color: #0d6efd;
   }
 </style>
 
 <div class="row">
-	<div class="span4">
-		<a href="/personal/" class="index-header"><div class="bg-color-1"><h2>personal</h2></div></a>
-    <div>Where I write about what's on my mind outside of work.</div>
-	</div>
-  <div class="span4">
-    <a href="/about" class="index-header"><div class="bg-color-2"><h2>about</h2></div></a>
-    <div>Hi, I'm Ryo. I'm an entrepreneur, engineer, and marketer.</div>
+  <div class="col-8 profile">
+    <h1>Ryo Chiba</h1>
+    <div>
+      <p class="profile-title">VP, Product Engineering at <a href="https://cafemedia.com/" target="_blank">CafeMedia</a>/<a href="https://adthrive.com/" target="_blank">AdThrive</a></p>
+      <p class="profile-title">Founder of <a href="https://www.usetopic.com/" target="_blank">Topic</a> and <a href="https://www.tintup.com/" target="_blank">TINT</a></p>
+      <p class="profile-description">Building products to help creators make the most of the web. <a href="/about">Learn more about me.</a></p>
+    </div>
   </div>
-  <div class="span4">
-    <a href="/professional/" class="index-header"><div class="bg-color-3"><h2>professional</h2></div></a>
-    <div>Where I write about code, marketing, business.</div>
+  <div class="col-4 profile-photo" style="text-align:right;"><img src="/images/timeline/headshot.jpeg" /></div>
+</div>
+<div class="row">
+  <div class="col-md-6 col-sm-12">
+    <a href="/personal/" class="index-header">
+      <div class="homepage-button bg-color-1"><h2>personal blog</h2> <i class="fas fa-arrow-right"></i></div>
+    </a>
+    <div>
+      Where I write about things I like to write about outside of work, which these days is recaps of my bicycle tours.
+    </div>
+  </div>
+  <div class="col-md-6 col-sm-12">
+    <a href="/professional/" class="index-header">
+      <div class="homepage-button bg-color-2"><h2>professional blog</h2> <i class="fas fa-arrow-right"></i></div>
+    </a>
+    <div>
+      Where I share lessons learned from building, marketing, and selling marketing technology products.
+    </div>
   </div>
 </div>
 <div class="row">
-  <div class="span4">
-    <a href="/art" class="index-header"><div class="bg-color-4"><h2>art</h2></div></a>
-    <div>I'm teaching myself to draw and paint, and these are the results!</div>
+  <div class="col-md-6 col-sm-12">
+    <a href="/art" class="index-header">
+      <div class="homepage-button bg-color-3"><h2>art</h2> <i class="fas fa-arrow-right"></i></div>
+    </a>
+    <div>
+      I'm teaching myself to draw and paint, and these are the results!
+    </div>
   </div>
-  <div class="span4">
-    <a href="/contact" class="index-header"><div class="bg-color-5"><h2>contact</h2></div></a>
-    <div>How to contact me.</div>
+  <div class="col-md-6 col-sm-12">
+    <a href="/videos" class="index-header">
+      <div class="homepage-button bg-color-4"><h2>videos</h2> <i class="fas fa-arrow-right"></i></div>
+    </a>
+    <div>
+      Me on camera throughout the years pitching products and sharing learnings.
+    </div>
   </div>
-  <div class="span4">
-    <a href="/videos" class="index-header"><div class="bg-color-6"><h2>videos</h2></div></a>
-    <div>Videos of me from work and outside of work throughout the years.</div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <h2>Popular Posts</h2>
   </div>
-</div>  
+</div>
+<div class="row">
+  <div class="col-md-6 col-sm-12">
+    <a class="post-link" href="/2021/09/28/topic-retrospective">
+      <div class="post">
+        <h3>How we Grew Topic, a Retrospective</h3>
+        <p>I tell the story of how Nik and I grew the second company to 250 customers and 7-digit ARR. The failed initial product, the pivot, the traction, the growth, and the eventual acquisition.</p>
+        <span>Read more</span>
+      </div>
+    </a>
+    <a class="post-link" href="/2016/11/22/what-is-a-company-culture">
+      <div class="post">
+        <h3>What is a company culture?</h3>
+        <p>Company culture remains an elusive concept. How can we make it better without knowing what it even is?</p>
+        <p>Here I take an academic framework for measuring company culture and apply it to our own company.</p>
+        <p style="font-style:italic;">(I’m most proud of the interactive scatterplots in this post which show what our employee’s thought about our culture, and where they wanted it to be in the future.)</p>
+        <span>Read more</span>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-6 col-sm-12">
+    <a class="post-link" href="/2016/06/08/tough-times-dont-last-but-tough-startups-do">
+      <div class="post">
+        <h3>Tough Times Don’t Last But Tough Startups Do</h3>
+        <p>I founded a company that bootstrapped to a team of 40 over the course of 7 years, but it wasn’t all happy fun times. When revenue started to plateau, we had to make cuts. This is how it played out. </p>
+        <p style="font-style:italic;">Sidenote: this article was featured on the Wall Street Journal.</p>
+        <span>Read more</span>
+      </div>
+    </a>
+    <a class="post-link" href="/2018/06/01/selenium-ecs-reliable-rendering-signage">
+      <div class="post">
+        <h3>Using Selenium and ECS to Create Reliable Rendering on Signage Systems</h3>
+        <p>Okay, so this article isn’t actually popular, but I’m putting it here because it describes a project that was a lot of fun for me.</p>
+        <p>It’s a hack/workaround that I designed to make our modern web-based social media visualizations work with old-school (think Win 98) digital signage systems.</p>
+        <span>Read more</span>
+      </div>
+    </a>
+  </div>
+</div>
+ 
 <div class="row" style="height:80px;"></div>
 

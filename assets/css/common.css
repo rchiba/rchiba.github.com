@@ -1,14 +1,15 @@
 body{
-  color: #333333;
+  color: #000;
   font-weight:300;
-  font-family: 'Noto Serif', Serif;
+  font-family: 'Roboto', Serif;
+  background-color: #F9FAFB;
 }
 h2, h3, h4, h5, h6{
-	font-family: 'Varela Round', Sans-Serif;
+	font-family: 'Roboto', Sans-Serif;
 }
 h1{
-	color: #444444;
-	font-family: 'Varela Round', Sans-Serif;
+	color: #000;
+	font-family: 'Roboto', Sans-Serif;
 	font-weight: 400;
 	letter-spacing: -1px;
 	text-align:left;
@@ -21,10 +22,10 @@ h2, h3{
 }
 p, #archive li{
 	margin: 0 0 10px;
-	font-size: 1.35em;
-	line-height: 1.6em;
-	margin-top:30px;
-	font-weight:300;
+  font-size: 1em;
+  line-height: 1.7em;
+  margin-top: 15px;
+  font-weight: 300;
 }
 ul{
 	list-style-type: square;
@@ -39,17 +40,16 @@ video{
 }
 #archive ul{
 	margin:0;
+	padding-left: 0;
 }
 article{
 	border-bottom:1px solid #eee;
 }
 .post-title{
-	font-size: 33px;
-	line-height: 1;
-	margin-top:40px;
-}
-.post-title a:hover{
-	text-decoration: none;
+	font-size: 77px;
+  line-height: 1;
+  margin-top: 68px;
+  letter-spacing: -4px;
 }
 .post-date{
 	text-align:left;
@@ -58,52 +58,87 @@ article{
 	font-style: italic;
 	font-weight: 300;
 	margin-top:0;
+	margin-bottom:  40px;
 }
+.post-hr{
+	    opacity: 1;
+    height: 7px !important;
+    color: black;
+    margin-bottom: 49px;
+}
+.post h2{
+	font-size:  22px;
+}
+
+.container-thin{
+	max-width: 690px;
+}
+
+@media (max-width: 679px) {
+	.navbar{
+		padding-top: 0 !important;
+	}
+	.nav{
+		display:  block !important;
+	}
+	.navbar li{
+		display: block !important;
+	}
+
+}
+
 .navbar{
-	position: fixed;
-	top: 0;
-	width: 100%;
-	left: 0;
-	text-align: center;
-  z-index:2;
+	font-size: 18px;
+    padding-top: 30px;
 }
 
-.navbar .container{
-	text-align:center;
-}
-.navbar .nav{
-	display: inline-block;
-	float: none;
-	font-family: 'Varela Round', Sans-Serif;
-}
-.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner{
-	box-shadow: none;
-	border-bottom: 1px solid #eee;
-	background-image: none;
-	background-color: #FFF;
-}
-.navbar .nav > li {
-	width:110px;
-}
-.navbar .nav > li.navbar-title{
-	width: auto;
-	font-size: 24px;
-	line-height: 1;
-	padding: 0;
+.navbar a{
+	color: inherit;
+	text-decoration: none;
+	align-self: flex-end;
+	line-height: .5;
 }
 
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) { 
+.navbar-title{
+	font-weight: bold;
+    font-size: 28px;
+}
 
-	.navbar .nav > li {
-		width:80px;
-	}
-	.navbar .nav > li.navbar-title{
-		padding: 8px 2px;
-	}
+.navbar li{
+	margin-right: 39px;
+	display: flex;
+}
 
 
+.blog-title h1{
+  font-size: 30px;
+  margin-top: 10px;
+}
+.blog-title p{
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+.blog-index ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+.blog-index li{
+  margin-bottom: 15px;
+}
+.blog-index li a{
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+.blog-index li span{
+  color: #b7b7b7;
+  padding-left: 8px;
+  font-size: 15px;
+}
+
+.blog-index a:hover{
+	color:  #0d6efd;
 }
 
 .top-item{
@@ -120,12 +155,17 @@ and (max-device-width : 480px) {
 	padding-top: 20px;
 	text-align:center;
 	color:#eee;
+	margin-top: 40px;
+	font-size: 14px;
 }
 .footer-social-button{
 	padding: 4px 11px;
 	margin-left: 4px;
 	margin-right: 4px;
 	color: #333;
+}
+.footer a{
+	text-decoration: none;
 }
 article img, article object{
 	border: 1px solid #eee;
@@ -144,6 +184,7 @@ article img, article object{
 article ul, article ol{
 	line-height: 1.65em;
 	margin: 0 auto;
+	padding-left: 19px;
 }
 
 article ul ul{
@@ -153,8 +194,9 @@ article ul ul{
 }
 
 article li{
-	margin: 1em auto;
-  line-height:32px;
+	margin: 0;
+  line-height: 1.5;
+  padding-bottom: 10px;
 }
 .blog-header{
   padding-bottom: 25px;
@@ -201,3 +243,4 @@ td:last-child,
 th:last-child {
   padding-right: 0;
 }
+

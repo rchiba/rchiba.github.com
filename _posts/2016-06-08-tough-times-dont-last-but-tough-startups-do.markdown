@@ -10,6 +10,9 @@ published: true
 meta:
   _edit_last: '1'
 ---
+_(this article was featured in this [WSJ article](https://www.wsj.com/articles/emote-control-silicon-valley-slump-has-millennial-ceos-sharing-feelings-1469035848))_
+
+![ryo looking at computer](/images/2016-06-08/1.jpeg)
 
 I closed my eyes and counted to three while in an empty and dark conference room. I told myself that I was ready to tell my friend and coworker that I would be laying him off. I needed to shut off my emotions. I needed to close the valve on my feelings, and close it tight. I opened my eyes, and walked downstairs. I tap my friend on the shoulder, “Can we talk?”, and we move into another conference room. Tim, our CEO, is already in the room, ready to co-pilot the meeting with me. I close the door tightly. The three of us sit in a distanced triangle. There is a long pause.
 
@@ -37,27 +40,27 @@ On December 3rd, 2015, we still felt that we were on track, and the committee se
 
 The graph below shows what we saw when that email was sent. According to the plan, we were still on track. The X-axis is set up such that “4” represents November. On closer examination, you will notice that the revenue line (red) jumps up significantly at 7, 8, and 9, which represent February, March, and April. That’s when we’d start to see the returns from our investment. The model predicted that during those months we would see revenue climb to 580, 620, and 650\. We could do it right? We did it in July!
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463877955182_Screen Shot 2016-05-21 at 5.41.31 PM](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463877955182_Screen-Shot-2016-05-21-at-5.41.31-PM.png)
+![graphs](/images/2016-06-08/2.png)
 
 ## GAS ON THE FIRE
 
 From September 2015 through February of 2016, we brought on 11 full time employees. 4 of them were international and were previously contracting. Before the growth plan, from April through September, payroll averaged at $234k. From September through February, payroll averaged $293k, growing a whopping $60k.
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463959619750_Screen Shot 2016-05-22 at 4.26.29 PM](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463959619750_Screen-Shot-2016-05-22-at-4.26.29-PM.png)
+![graphs](/images/2016-06-08/3.png)
 
 In addition, we upgraded our digs. We went from paying $8.5k on a 3000 square foot office to paying $35k on a 10000 square foot office. Total office related expenditures climbed from a $28k in January to $62k in February. The cost of moving offices was even worse than we anticipated because we were not able to find a sublessor for the old office. Given the bullish office real estate market in San Francisco, we expected to make a healthy profit of 8k from our old office. Instead, we were experiencing an 8.5k loss, as we continued to lower the price each month, desperate for a company to move in. Ouch.
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463964569744_2501bryant](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463964569744_2501bryant.jpg)
+![graphs](/images/2016-06-08/4.jpeg)
 
 ## COMING TO A HEAD
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463881015319_Screen Shot 2016-05-21 at 5.14.15 PM](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463881015319_Screen-Shot-2016-05-21-at-5.14.15-PM.png)
+![graphs](/images/2016-06-08/5.png)
 
 In January, we hit our target of $450k. However, the good news did not last long. In February, we missed the 580 target significantly, and only made $436k. By the middle of March, it was clear that we were not going to hit $620k, and it was becoming increasingly obvious that we would not hit $650k as predicted in April. If we were to project more conservative revenue expectations forward, our bank account would look dangerously low.
 
 How low? Well, let’s take a look at the projected health ratio. The health ratio is a number that represents the general health of the business and is simply the business’ bank balance divided by monthly core expenses. Anywhere below 1.0 is dangerous for the business, because once you dip below that, it is possible to not make payroll if revenue for that month does not arrive in time. The projection showed that our health ratio would dip to an alarming 0.6 by the middle of the year, and by the end of the year we would be bankrupt. Simply put, the model put us in an existential crisis. Compounding the necessity to make a decision was a team retreat that was scheduled for the beginning of April. If we were going to make drastic cuts, it would be best to make them before the all hands team retreat.
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463963350649_Screen Shot 2016-05-22 at 5.27.41 PM](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463963350649_Screen-Shot-2016-05-22-at-5.27.41-PM.png)
+![graphs](/images/2016-06-08/6.png)
 
 The day things came to a head was March 23, 2016\. It was decided that afternoon among the co-founders that emergency planning would need to take place, and the co-founders met for extended periods between the 23rd to the 27th, scrambling on Saturday and Sunday to come up with a plan to both reduce expenses and to effectively communicate the reductions to the team. The two plans we needed to decide between were to either Cut Shallow or Cut Deep. The Cut Shallow plan involved cutting around $30k in expenses, and then working on immediately raising a $1-2M buffer round of funding. The Cut Deep plan involved cutting $50k in expenses, and then working on reaching profitability before considering raising money. After debate, we decided to go with the Cut Deep plan because it reduced the chances of a second cut, which would be devastating to morale and our long term growth. From there, we worked to make the impossible decision of which employees would be cut. Ultimately, it was a decision that was based on what would make the least drastic impact to the business.
 
@@ -65,7 +68,7 @@ The decision making process was brutal and ugly. It felt awful. It involved putt
 
 Stakeholders were called in the weekend before the announcement to individually meet with the cofounders. They included some early employees, and continuing employees that would be affected the most. The cofounders shared the components of the plan that applied to them, so that they could gather feedback and to prepare them for Monday. By Sunday night the cofounders had a deck, a timeline, and a sleepless night ahead.
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463963410460_Screen Shot 2016-05-22 at 5.27.28 PM-1](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463963410460_Screen-Shot-2016-05-22-at-5.27.28-PM-1.png)
+![graphs](/images/2016-06-08/7.png)
 
 ## THE LAYOFFS
 
@@ -79,7 +82,7 @@ It was only in the weeks afterward, that we began to realize the mistakes we had
 
 On March 30, just 2 days after the announcement, the team set off for Wonder Valley in Fresno for the team retreat. We usually have a retreat every 6 months to strategize and bond. This time, it would be to repair. Our Operations Manager did a wonderful job of planning the retreat for the past couple months, and the retreat proceeded without incident, smoothly and efficiently. We paddled canoes, brainstormed Q2 strategies, and played cards late into the night. However, even the best retreat would not be able to fully heal the wounds left from losing one’s friends from the workplace. The team came back from Fresno closer than they were after the announcement, but still fragmented, and feeling the weird energy the layoffs brought about.
 
-![ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463962768996_retreat](http://staging.tintup.com/blog/wp-content/uploads/2016/06/ryochiba.hackpad.com_W9y0E5gwF4h_p.419835_1463962768996_retreat.jpg)
+![graphs](/images/2016-06-08/8.jpeg)
 
 In April and May we saw a continuation of the aftermath when 2 key engineers announced their resignation in order to pursue their own interests. This hit the team particularly hard because both of these employees represented strong talent on the team.
 
@@ -96,7 +99,7 @@ That brings us to the present. Today, we are still working to handle the situati
 
 ## THE FUTURE
 
-![Screen Shot 2016-06-08 at 10.19.08 AM](http://staging.tintup.com/blog/wp-content/uploads/2016/06/Screen-Shot-2016-06-08-at-10.19.08-AM.png)
+![graphs](/images/2016-06-08/9.png)
 
 Although we experienced the largest setback in this company’s history, we must remember everyday to appreciate how far we have come. We are making steady revenue from a group of passionate customers and have a product that regularly sells itself. The comments our customers give us for our easy to use product and personal customer service is inspiring.
 
