@@ -3,7 +3,7 @@ layout: post
 title: TITLE
 description: FORTEHSEO
 tags:
-- A TAG
+- personal
 status: publish
 type: post
 published: true
