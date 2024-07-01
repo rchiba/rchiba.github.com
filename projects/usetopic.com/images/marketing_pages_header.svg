@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2561px" height="998px" viewBox="0 0 2561 998" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 998 0 0 2561 0 2561 510.034838"></polygon>
+        <linearGradient x1="23.8%" y1="24.3217555%" x2="125.006102%" y2="28.7961108%" id="linearGradient-3">
+            <stop stop-color="#00215B" offset="2.69214527%"></stop>
+            <stop stop-color="#051B4F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.8%" y1="-9.43919903%" x2="125.006102%" y2="0.917898951%" id="linearGradient-4">
+            <stop stop-color="#00215B" offset="2.69214527%"></stop>
+            <stop stop-color="#051B4F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Path_21950"></g>
+        <g id="Group_7008" mask="url(#mask-2)">
+            <g transform="translate(-1586.000000, -500.000000)">
+                <g id="Group_7003" transform="translate(1927.000000, 1011.000000)">
+                    <polygon id="Path_21951" fill="url(#linearGradient-3)" fill-rule="nonzero" points="2861.25137 659.768276 967.875048 1041.10675 967.875048 570.667695 2861.25137 189.330236"></polygon>
+                </g>
+                <g id="Group_7005" transform="translate(1902.500000, 618.000000) rotate(180.000000) translate(-1902.500000, -618.000000) ">
+                    <polygon id="Path_21943-2" fill="url(#linearGradient-4)" fill-rule="nonzero" points="972.137907 1040.34668 0 1235.28864 0 764.846542 972.137907 569.907626"></polygon>
+                    <polygon id="Path_21951-2" fill="url(#linearGradient-3)" fill-rule="nonzero" points="2861.25036 659.768276 967.874033 1041.10573 967.874033 570.667695 2861.25036 189.329222"></polygon>
+                </g>
+                <g id="Group_7004" transform="translate(3348.500000, 1259.000000) rotate(180.000000) translate(-3348.500000, -1259.000000) translate(1446.000000, 641.000000)">
+                    <polygon id="Path_21952-3" fill="url(#linearGradient-4)" fill-rule="nonzero" points="3804.49341 470.439054 2832.3555 665.381015 2832.3555 194.938916 3804.49341 0"></polygon>
+                    <polygon id="Path_21951-3" fill="url(#linearGradient-3)" fill-rule="nonzero" points="2861.25036 659.768276 967.874033 1041.10573 967.874033 570.667695 2861.25036 189.329222"></polygon>
+                </g>
+                <g id="Group_7006" transform="translate(481.000000, 370.000000)">
+                    <polygon id="Path_21952-4" fill="url(#linearGradient-4)" fill-rule="nonzero" points="3804.49341 470.439054 2832.3555 665.381015 2832.3555 194.938916 3804.49341 0"></polygon>
+                    <polygon id="Path_21951-4" fill="url(#linearGradient-3)" fill-rule="nonzero" points="2861.25036 659.768276 967.874033 1041.10573 967.874033 570.667695 2861.25036 189.329222"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

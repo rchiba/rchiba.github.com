@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Copilot" transform="translate(-222.000000, -2492.000000)">
+            <g id="Group-38" transform="translate(220.000000, 1072.000000)">
+                <g id="Group-4" transform="translate(2.000000, 1420.000000)">
+                    <circle id="Oval" fill="#E9E0FF" cx="33.5" cy="33.5" r="33.5"></circle>
+                    <g id="window-text-checkmark" transform="translate(17.000000, 17.000000)">
+                        <path d="M21.49225,29.75 L8.5,29.75 C6.15278981,29.75 4.25,27.8472102 4.25,25.5 L4.25,8.5 C4.25,6.15278981 6.15278981,4.25 8.5,4.25 L25.5,4.25 C27.8472102,4.25 29.75,6.15278981 29.75,8.5 L29.75,20.0415833" id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="29.75" y1="11.3333333" x2="4.25" y2="11.3333333" id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="9.5625" y1="24.7916667" x2="12.75" y2="24.7916667" id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <polyline id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" points="27.625 23.7291667 24.9701667 26.3854167 23.375 24.7916667"></polyline>
+                        <path d="M30.0078333,20.2838333 C32.4974033,22.7734338 32.4973868,26.8098463 30.0077965,29.2994264 C27.5182063,31.7890065 23.4817937,31.7890065 20.9922035,29.2994264 C18.5026132,26.8098463 18.5025967,22.7734338 20.9921667,20.2838333 C22.1877133,19.088272 23.8092314,18.4166115 25.5,18.4166115 C27.1907686,18.4166115 28.8122867,19.088272 30.0078333,20.2838333" id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="9.5625" y1="20.5416667" x2="14.1666667" y2="20.5416667" id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="9.5625" y1="16.2916667" x2="17" y2="16.2916667" id="Path" stroke="#6627FF" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <rect id="Rectangle" x="0" y="0" width="34" height="34"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

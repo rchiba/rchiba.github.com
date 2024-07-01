@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="61px" viewBox="0 0 300 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-option-2" transform="translate(-820.000000, -277.000000)" fill="#FFFDBD">
+            <g id="Group-6" transform="translate(0.000000, 80.000000)">
+                <g id="Group-4" transform="translate(320.000000, 197.000000)">
+                    <polygon id="Rectangle" points="500 13 800 -3.25073302e-13 800 48 500 61"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

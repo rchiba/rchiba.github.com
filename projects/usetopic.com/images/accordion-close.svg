@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>interface-essential-107</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-Final" transform="translate(-1063.000000, -4629.000000)">
+            <g id="Group-5-Copy" transform="translate(315.000000, 4610.000000)">
+                <g id="Group-6" transform="translate(1.000000, 0.000000)">
+                    <g id="interface-essential-107" transform="translate(747.000000, 19.000000)">
+                        <polygon id="Path" points="0 0 31.6800019 0 31.6800019 31.6800019 0 31.6800019"></polygon>
+                        <line x1="19.5756012" y1="12.1044007" x2="12.1044007" y2="19.5756012" id="Path" stroke="#1BA3FE" stroke-width="1.98000012" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="19.5756012" y1="19.5756012" x2="12.1044007" y2="12.1044007" id="Path" stroke="#1BA3FE" stroke-width="1.98000012" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M15.840001,27.7200017 L15.840001,27.7200017 C9.27828057,27.7200017 3.96000024,22.4017214 3.96000024,15.840001 L3.96000024,15.840001 C3.96000024,9.27828057 9.27828057,3.96000024 15.840001,3.96000024 L15.840001,3.96000024 C22.4017214,3.96000024 27.7200017,9.27828057 27.7200017,15.840001 L27.7200017,15.840001 C27.7200017,22.4017214 22.4017214,27.7200017 15.840001,27.7200017 Z" id="Path" stroke="#1BA3FE" stroke-width="1.98000012" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

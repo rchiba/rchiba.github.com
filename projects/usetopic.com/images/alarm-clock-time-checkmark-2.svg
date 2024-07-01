@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>alarm-clock-time-checkmark-2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-v1" transform="translate(-406.000000, -3281.000000)">
+            <g id="Group-43" transform="translate(319.000000, 3271.000000)">
+                <g id="Group-38" transform="translate(75.000000, 0.000000)">
+                    <g id="alarm-clock-time-checkmark-2" transform="translate(12.000000, 10.000000)">
+                        <polygon id="Path" points="38.4000006 38.4000006 0 38.4000006 0 0 38.4000006 0"></polygon>
+                        <polyline id="Path" stroke="#5B7FFF" stroke-width="2.40000004" stroke-linecap="round" stroke-linejoin="round" points="12.2080002 23.7856004 18.0576003 20.2192003 18.0576003 12.7776002"></polyline>
+                        <path d="M17.6000003,33.6000015 C9.85434154,33.6028163 3.49409131,27.4780587 3.20481135,19.7378033 C2.91553139,11.9975479 8.80087079,5.41513046 16.525132,4.8397822 C24.2493932,4.26443394 31.0449712,9.90230228 31.9056005,17.6000003" id="Path" stroke="#5B7FFF" stroke-width="2.40000004" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline id="Path" stroke="#5B7FFF" stroke-width="2.40000004" stroke-linecap="round" stroke-linejoin="round" points="30.9328005 27.7328004 28.2672004 30.4000005 26.6672004 28.8000004"></polyline>
+                        <path d="M32.0000005,35.2000005 L25.6000004,35.2000005 C23.8326892,35.2000005 22.4000003,33.7673117 22.4000003,32.0000005 L22.4000003,25.6000004 C22.4000003,23.8326892 23.8326892,22.4000003 25.6000004,22.4000003 L32.0000005,22.4000003 C33.7673117,22.4000003 35.2000005,23.8326892 35.2000005,25.6000004 L35.2000005,32.0000005 C35.2000005,33.7673117 33.7673117,35.2000005 32.0000005,35.2000005 Z" id="Path" stroke="#5B7FFF" stroke-width="2.40000004" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

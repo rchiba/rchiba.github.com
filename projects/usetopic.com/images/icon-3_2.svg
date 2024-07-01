@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 25</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-Final" transform="translate(-903.000000, -1265.000000)">
+            <g id="Group-21" transform="translate(246.000000, 1265.000000)">
+                <g id="Group-25" transform="translate(657.000000, 0.000000)">
+                    <circle id="Oval" fill="#D2FAFF" cx="24" cy="24" r="24"></circle>
+                    <g id="plugin-sqaure" transform="translate(12.000000, 12.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <rect id="Rectangle" stroke="#09C0D7" stroke-width="1.5" x="3" y="3" width="18" height="18" rx="5"></rect>
+                        <path d="M8.93981,11.235 L7.79223,12.38253 C7.28497148,12.8897862 6.99999641,13.5777747 6.99999641,14.295145 C6.99999641,15.0125153 7.28497148,15.7005038 7.79223,16.20776 L7.79223,16.20776 C8.29948625,16.7150185 8.98747473,16.9999936 9.704845,16.9999936 C10.4222153,16.9999936 11.1102038,16.7150185 11.61746,16.20776 L12.76504,15.06018" id="Path" stroke="#09C0D7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="10.4699" y1="13.5301" x2="13.14757" y2="10.85243" id="Path" stroke="#09C0D7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M15.06019,12.76505 L11.235,8.93981 L12.38258,7.79223 C12.8898362,7.28497148 13.5778247,6.99999641 14.295195,6.99999641 C15.0125653,6.99999641 15.7005538,7.28497148 16.20781,7.79223 L16.20781,7.79223 C16.7150685,8.29948625 17.0000436,8.98747473 17.0000436,9.704845 C17.0000436,10.4222153 16.7150685,11.1102038 16.20781,11.61746 L15.06019,12.76505 Z" id="Path" stroke="#09C0D7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

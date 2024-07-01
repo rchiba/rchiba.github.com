@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="550px" viewBox="0 0 1440 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="550"></rect>
+        <linearGradient x1="81.0350782%" y1="54.9620885%" x2="-7.65140255%" y2="17.7519741%" id="linearGradient-3">
+            <stop stop-color="#D1E6FF" offset="0.912368881%"></stop>
+            <stop stop-color="#C0FFE8" offset="50.6228147%"></stop>
+            <stop stop-color="#8FCEFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-26.0%" y="-34.8%" width="151.9%" height="169.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="70.3256161%" y1="58.202734%" x2="11.0426568%" y2="-7.9968319%" id="linearGradient-5">
+            <stop stop-color="#E7D1FF" offset="0%"></stop>
+            <stop stop-color="#C0C9FF" offset="49.2293074%"></stop>
+            <stop stop-color="#8FCEFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-30.9%" y="-25.4%" width="161.9%" height="150.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Testimonial-Yuriy-Copy" transform="translate(0.000000, -126.000000)">
+            <g id="Group-4" transform="translate(0.000000, 126.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill="#F2F4FA" xlink:href="#path-1"></use>
+                <g id="Group-5" mask="url(#mask-2)" opacity="0.453388">
+                    <g transform="translate(282.000000, 33.000000)">
+                        <ellipse id="Oval-Copy-2" fill="url(#linearGradient-3)" filter="url(#filter-4)" transform="translate(289.000000, 242.500000) rotate(180.000000) translate(-289.000000, -242.500000) " cx="289" cy="242.5" rx="289" ry="215.5"></ellipse>
+                        <ellipse id="Oval-Copy-3" fill="url(#linearGradient-5)" filter="url(#filter-6)" transform="translate(532.000000, 242.500000) rotate(270.000000) translate(-532.000000, -242.500000) " cx="532" cy="242.5" rx="242.5" ry="295"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

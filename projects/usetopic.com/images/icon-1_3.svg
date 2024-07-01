@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 23</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing-Final" transform="translate(-246.000000, -1265.000000)">
+            <g id="Group-23" transform="translate(246.000000, 1265.000000)">
+                <circle id="Oval" fill="#E3FFEC" cx="24" cy="24" r="24"></circle>
+                <g id="list-bullets" transform="translate(12.000000, 12.000000)">
+                    <line x1="9" y1="6.439" x2="20" y2="6.439" id="Path" stroke="#00CE42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="20" y1="12" x2="11" y2="12" id="Path" stroke="#00CE42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="13" y1="17.561" x2="20" y2="17.561" id="Path" stroke="#00CE42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M4.5,5.939 C4.22385763,5.939 4,6.16285763 4,6.439 C4,6.71514237 4.22385763,6.939 4.5,6.939 C4.77614237,6.939 5,6.71514237 5,6.439 C5,6.16285763 4.77614237,5.939 4.5,5.939" id="Path" stroke="#00CE42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M6.5,11.5 C6.22385763,11.5 6,11.7238576 6,12 C6,12.2761424 6.22385763,12.5 6.5,12.5 C6.77614237,12.5 7,12.2761424 7,12 C7,11.7238576 6.77614237,11.5 6.5,11.5" id="Path" stroke="#00CE42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M8.5,17.061 C8.22385763,17.061 8,17.2848576 8,17.561 C8,17.8371424 8.22385763,18.061 8.5,18.061 C8.77614237,18.061 9,17.8371424 9,17.561 C9,17.2848576 8.77614237,17.061 8.5,17.061" id="Path" stroke="#00CE42" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polygon id="Path" points="0 24 0 0 24 0 24 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>magic-wand</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.356863 0 0 0 0 0.498039 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Copilot" transform="translate(-659.000000, -133.000000)">
+            <g id="Group-9" transform="translate(374.000000, 129.000000)">
+                <g id="Group-40" transform="translate(273.000000, 0.000000)">
+                    <g id="magic-wand" transform="translate(12.041237, 4.500000)" filter="url(#filter-1)">
+                        <g>
+                            <rect id="Rectangle" x="0" y="0" width="27.0927835" height="27"></rect>
+                            <path d="M15.7870089,5.76537371 C16.9726012,5.76740732 17.9332072,6.72801329 17.9352408,7.91360567 L17.9621364,23.5937513 C17.964161,24.7740993 17.0089412,25.7326017 15.8285932,25.7346263 C15.8261493,25.7346305 15.8237054,25.7346305 15.8212614,25.7346263 C14.6356691,25.7325927 13.6750631,24.7719867 13.6730295,23.5863943 L13.6461339,7.90624871 C13.6441092,6.72590071 14.5993291,5.76739832 15.7796771,5.76537371 C15.782121,5.76536952 15.7845649,5.76536952 15.7870089,5.76537371 Z" id="Rectangle" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.804135, 15.750000) rotate(135.000000) translate(-15.804135, -15.750000) "></path>
+                            <line x1="18.0618557" y1="4.5" x2="18.0618557" y2="6.75" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="19.1907216" y1="5.625" x2="16.9329897" y2="5.625" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="5.6443299" y1="16.875" x2="5.6443299" y2="19.125" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="6.77319588" y1="18" x2="4.51546392" y2="18" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="4.51546392" y1="3.375" x2="4.51546392" y2="5.625" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="5.6443299" y1="4.5" x2="3.38659794" y2="4.5" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="9.98256186" y1="12.97575" x2="13.0203402" y2="9.948375" id="Path" stroke="#323232" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

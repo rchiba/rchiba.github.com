@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lead-Capture" transform="translate(-685.000000, -148.000000)">
+            <g id="Group-11" transform="translate(438.000000, 107.000000)">
+                <g id="Group-9" transform="translate(247.000000, 41.000000)">
+                    <circle id="Oval" fill-opacity="0.130974" fill="#5B7FFF" cx="36" cy="36" r="36"></circle>
+                    <g id="myicons-827" transform="translate(16.000000, 16.000000)">
+                        <g id="Group" transform="translate(3.400000, 8.500000)" stroke="#5B7FFF" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M14.4177004,23.3070007 L33.0956009,13.3926004 C34.300901,12.7534004 34.300901,11.0330003 33.0956009,10.3921003 L14.4449004,0.493000014 C13.0373004,-0.255000007 11.4597003,1.15600003 12.0564003,2.62820007 L15.7777004,11.8082003 L12.0258003,21.1752006 C11.4376003,22.6491006 13.0135004,24.0516007 14.4177004,23.3070007 Z" id="Path" stroke-width="2.55612007"></path>
+                            <line x1="15.7777004" y1="11.8167003" x2="33.996601" y2="11.9000003" id="Path" stroke-width="2.55000007"></line>
+                            <line x1="3.4000001" y1="17.0000005" x2="6.12680017" y2="17.0000005" id="Path" stroke-width="2.55000007"></line>
+                            <line x1="1.70000005" y1="11.9000003" x2="6.12680017" y2="11.9000003" id="Path" stroke-width="2.55000007"></line>
+                            <line x1="0" y1="6.80000019" x2="6.12680017" y2="6.80000019" id="Path" stroke-width="2.55000007"></line>
+                        </g>
+                        <rect id="Rectangle" x="0" y="0" width="40.8000011" height="40.8000011"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
